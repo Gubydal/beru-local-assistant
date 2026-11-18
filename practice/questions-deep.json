@@ -1,0 +1,380 @@
+[
+  {
+    "id": "coi-deep-01",
+    "stem": "Avant une négociation, une responsable identifie les différences culturelles et évalue leurs conséquences possibles. Quelle compétence domine ?",
+    "options": [
+      "Cultural Due Diligence",
+      "Cultural Mentoring",
+      "Style Switching"
+    ],
+    "gold": 0,
+    "source": "DOC Support 3-2",
+    "needle": "afin d’anticiper leurs conséquences",
+    "explanation": "Le passage de référence indique : « afin d’anticiper leurs conséquences ». La réponse attendue est : Cultural Due Diligence."
+  },
+  {
+    "id": "coi-deep-02",
+    "stem": "Après un diagnostic, un responsable change sa manière de donner du feedback. Quelle action relève précisément du Style Switching ?",
+    "options": [
+      "Évaluer les différences avant la rencontre",
+      "Former un collègue à l’interculturel",
+      "Modifier son propre comportement"
+    ],
+    "gold": 2,
+    "source": "DOC Support 3-2",
+    "needle": "Savoir modifier son style",
+    "explanation": "Le passage de référence indique : « Savoir modifier son style ». La réponse attendue est : Modifier son propre comportement."
+  },
+  {
+    "id": "coi-deep-03",
+    "stem": "Deux équipes exposent explicitement leurs attentes différentes et élaborent une solution commune. Quelle compétence domine ?",
+    "options": [
+      "Cultural Mentoring",
+      "Cultural Dialogue",
+      "Cultural Due Diligence"
+    ],
+    "gold": 1,
+    "source": "DOC Support 3-2",
+    "needle": "construire des solutions communes",
+    "explanation": "Le passage de référence indique : « construire des solutions communes ». La réponse attendue est : Cultural Dialogue."
+  },
+  {
+    "id": "coi-deep-04",
+    "stem": "Une tutrice accompagne progressivement un collègue pour qu’il développe ses capacités en milieu multiculturel. Quelle compétence domine ?",
+    "options": [
+      "Cultural Mentoring",
+      "Style Switching",
+      "Cultural Due Diligence"
+    ],
+    "gold": 0,
+    "source": "DOC Support 3-2",
+    "needle": "développer leur capacité",
+    "explanation": "Le passage de référence indique : « développer leur capacité ». La réponse attendue est : Cultural Mentoring."
+  },
+  {
+    "id": "coi-deep-05",
+    "stem": "Quelle proposition NE décrit PAS le diagnostic culturel préalable du tableau COI ?",
+    "options": [
+      "Anticiper les conséquences culturelles",
+      "Évaluer les différences affectant une interaction professionnelle",
+      "Changer son style sans identifier ni évaluer les différences"
+    ],
+    "gold": 2,
+    "source": "DOC Support 3-2",
+    "needle": "Identifier et évaluer",
+    "explanation": "Le passage de référence indique : « Identifier et évaluer ». La réponse attendue est : Changer son style sans identifier ni évaluer les différences."
+  },
+  {
+    "id": "coi-deep-06",
+    "stem": "Quel enchaînement associe correctement les actions et compétences COI ?",
+    "options": [
+      "Les quatre compétences signifient seulement changer son comportement",
+      "Anticiper : due diligence ; adapter son style : switching ; échanger : dialogue ; accompagner autrui : mentoring",
+      "Anticiper : mentoring ; adapter son style : dialogue ; échanger : switching ; accompagner : due diligence"
+    ],
+    "gold": 1,
+    "source": "DOC Support 3-2",
+    "needle": "diagnostiquer et anticiper",
+    "explanation": "Le passage de référence indique : « diagnostiquer et anticiper ». La réponse attendue est : Anticiper : due diligence ; adapter son style : switching ; échanger : dialogue ; accompagner autrui : mentoring."
+  },
+  {
+    "id": "family_vs_tower",
+    "stem": "Une entreprise centralisée autour d’un dirigeant, personnalisée et peu bureaucratique correspond selon Trompenaars à :",
+    "options": [
+      "Eiffel Tower",
+      "Guided Missile",
+      "Incubator",
+      "Family"
+    ],
+    "gold": 3,
+    "source": "DOC Support 5-1",
+    "needle": "No many rules",
+    "explanation": "Élément de référence : « No many rules ». Family"
+  },
+  {
+    "id": "tower_vs_family",
+    "stem": "Une entreprise très centralisée où l’autorité vient surtout de la fonction et des procédures correspond à :",
+    "options": [
+      "Eiffel Tower",
+      "Family",
+      "Guided Missile",
+      "Incubator"
+    ],
+    "gold": 0,
+    "source": "DOC Support 5-1",
+    "needle": "functional position",
+    "explanation": "Élément de référence : « functional position ». Eiffel Tower"
+  },
+  {
+    "id": "missile_vs_incubator",
+    "stem": "Deux organisations sont décentralisées. Celle qui est formalisée, orientée projet et résultats correspond à :",
+    "options": [
+      "Eiffel Tower",
+      "Guided Missile",
+      "Incubator",
+      "Family"
+    ],
+    "gold": 1,
+    "source": "DOC Support 5-1",
+    "needle": "High degree of formalization",
+    "explanation": "Élément de référence : « High degree of formalization ». Guided Missile"
+  },
+  {
+    "id": "incubator_person",
+    "stem": "Une structure peu centralisée et peu formalisée attribue les tâches selon les préférences des membres. C’est :",
+    "options": [
+      "Eiffel Tower",
+      "Family",
+      "Incubator",
+      "Guided Missile"
+    ],
+    "gold": 2,
+    "source": "DOC Support 5-1",
+    "needle": "member’s preferences",
+    "explanation": "Élément de référence : « member’s preferences ». Incubator"
+  },
+  {
+    "id": "family_axis",
+    "stem": "Quelle combinaison appartient à la culture Family dans ce support ?",
+    "options": [
+      "Centralisation faible et formalisation élevée",
+      "Centralisation et formalisation élevées",
+      "Centralisation et formalisation faibles",
+      "Centralisation élevée et formalisation faible"
+    ],
+    "gold": 3,
+    "source": "DOC Support 5-1",
+    "needle": "Low degree of formalization",
+    "explanation": "Élément de référence : « Low degree of formalization ». Centralisation élevée et formalisation faible"
+  },
+  {
+    "id": "org_not_country",
+    "stem": "Quelle distinction évite une confusion de niveau d’analyse ?",
+    "options": [
+      "Les quatre types Family/Tower/Missile/Incubator décrivent des cultures organisationnelles",
+      "Les quatre types sont quatre scores nationaux de Hofstede",
+      "Les types sont des diagnostics médicaux individuels",
+      "Family est le nom de la sixième dimension de Hofstede"
+    ],
+    "gold": 0,
+    "source": "DOC Support 5-1",
+    "needle": "organizational cultures",
+    "explanation": "Élément de référence : « organizational cultures ». Les quatre types Family/Tower/Missile/Incubator décrivent des cultures organisationnelles"
+  },
+  {
+    "id": "yemen_role",
+    "stem": "Dans le cas de formation au Yémen, quel changement de rôle a permis de surmonter la difficulté sans exclure Fanny ?",
+    "options": [
+      "Fanny quitte définitivement toute la formation",
+      "Les participants doivent abandonner leurs prières",
+      "Le consultant supprime les exercices pratiques",
+      "Le consultant enseigne et Fanny pose les questions à la place des participants"
+    ],
+    "gold": 3,
+    "source": "DOC Support 6-2",
+    "needle": "Ce serait elle qui poserait les questions",
+    "explanation": "Élément de référence : « Ce serait elle qui poserait les questions ». Le consultant enseigne et Fanny pose les questions à la place des participants"
+  },
+  {
+    "id": "yemen_apparent",
+    "stem": "Les participants au Yémen semblent attentifs mais appliquent peu les exercices. Quelle lecture est appuyée par le cas ?",
+    "options": [
+      "Explorer les valeurs, la fierté et les obstacles à avouer une incompréhension",
+      "Conclure que leur attention prouve une compréhension complète",
+      "Attribuer une incapacité intellectuelle à toute une population",
+      "Conclure que le budget ne peut jamais être enseigné au Yémen"
+    ],
+    "gold": 0,
+    "source": "DOC Support 6-2",
+    "needle": "révéler ce qu’ils ne savaient pas",
+    "explanation": "Élément de référence : « révéler ce qu’ils ne savaient pas ». Explorer les valeurs, la fierté et les obstacles à avouer une incompréhension"
+  },
+  {
+    "id": "yemen_value",
+    "stem": "Dans le récit, pourquoi multiplier les rappels à la rentabilité ne suffisait-il pas à résoudre le problème ?",
+    "options": [
+      "Les pauses étaient décrites comme un simple problème informatique",
+      "Les priorités attribuées à la prière et à la fierté différaient de celles des formateurs",
+      "Les participants jugeaient tous la rentabilité plus importante que la prière",
+      "Le document prouve une absence de toute hiérarchie de valeurs"
+    ],
+    "gold": 1,
+    "source": "DOC Support 6-2",
+    "needle": "Leur rang de valeurs",
+    "explanation": "Élément de référence : « Leur rang de valeurs ». Les priorités attribuées à la prière et à la fierté différaient de celles des formateurs"
+  },
+  {
+    "id": "yemen_hypothesis",
+    "stem": "Quel élément doit rester une hypothèse d’interprétation du cas plutôt qu’une loi générale ?",
+    "options": [
+      "La présence de Fanny au stage",
+      "L’intitulé contrôle du budget et des coûts",
+      "La difficulté possible d’avouer une incompréhension devant une jeune Européenne",
+      "La durée prévue de deux semaines"
+    ],
+    "gold": 2,
+    "source": "DOC Support 6-2",
+    "needle": "Peut-être",
+    "explanation": "Élément de référence : « Peut-être ». La difficulté possible d’avouer une incompréhension devant une jeune Européenne"
+  },
+  {
+    "id": "morocco_chain",
+    "stem": "Dans le témoignage marocain, comment des retards successifs peuvent-ils être entretenus ?",
+    "options": [
+      "Par l’absence de tout client national",
+      "Par une ponctualité parfaite explicitement décrite",
+      "Par des arrangements tolérant les reports entre partenaires habituels",
+      "Par une règle prouvant que tout retard est biologiquement nécessaire"
+    ],
+    "gold": 2,
+    "source": "9QdyxU7tseo",
+    "needle": "chaîne",
+    "explanation": "Élément de référence : « chaîne ». Par des arrangements tolérant les reports entre partenaires habituels"
+  },
+  {
+    "id": "morocco_multinational",
+    "stem": "Pourquoi l’arrivée d’un client multinational rend-elle le décalage temporel plus problématique dans ce récit ?",
+    "options": [
+      "Le client affirme que les délais n’ont jamais aucune importance",
+      "Le client interdit tout produit fini",
+      "Le récit explique que la multinationale supprime toute exigence de qualité",
+      "Ses attentes de respect des délais et de qualité entrent en tension avec les reports habituels"
+    ],
+    "gold": 3,
+    "source": "9QdyxU7tseo",
+    "needle": "respect des",
+    "explanation": "Élément de référence : « respect des ». Ses attentes de respect des délais et de qualité entrent en tension avec les reports habituels"
+  },
+  {
+    "id": "morocco_adaptation",
+    "stem": "Quel changement le témoin dit-il devoir opérer ?",
+    "options": [
+      "Adapter son propre schéma cognitif et son management aux pratiques rencontrées",
+      "Démontrer que sa première lecture de la situation ne doit jamais être révisée",
+      "Supprimer toute relation de confiance",
+      "Établir un diagnostic valable pour chaque Marocain sans exception"
+    ],
+    "gold": 0,
+    "source": "9QdyxU7tseo",
+    "needle": "schéma",
+    "explanation": "Élément de référence : « schéma ». Adapter son propre schéma cognitif et son management aux pratiques rencontrées"
+  },
+  {
+    "id": "morocco_assisted",
+    "stem": "Que désigne l’expression autonomie assistée dans le témoignage ?",
+    "options": [
+      "L’incapacité innée de tous les employés du pays",
+      "Une autonomie accompagnée d’un suivi régulier du travail et des délais",
+      "L’absence complète de suivi du travail",
+      "L’obligation juridique de ne jamais déléguer"
+    ],
+    "gold": 1,
+    "source": "9QdyxU7tseo",
+    "needle": "autonomie assistée",
+    "explanation": "Élément de référence : « autonomie assistée ». Une autonomie accompagnée d’un suivi régulier du travail et des délais"
+  },
+  {
+    "id": "managerial-01",
+    "stem": "Un dirigeant japonais est hiérarchique. Quelle décision reste compatible avec le graphique du support ?",
+    "options": [
+      "Une décision consensuelle",
+      "Une décision nécessairement autoritaire",
+      "Une décision toujours individuelle"
+    ],
+    "gold": 0,
+    "source": "DOC Support 6-1",
+    "needle": "Japan lies toward hierarchical leadership",
+    "explanation": "Élément de référence : « Japan lies toward hierarchical leadership ». Une décision consensuelle"
+  },
+  {
+    "id": "managerial-02",
+    "stem": "La France communique avec davantage de contexte que les États-Unis. Son feedback négatif est-il forcément plus indirect selon le support ?",
+    "options": [
+      "Oui, les deux échelles sont identiques",
+      "Oui, toute communication implicite interdit les critiques franches",
+      "Non, la France est plus proche du feedback négatif direct"
+    ],
+    "gold": 2,
+    "source": "DOC Support 6-1",
+    "needle": "France is closer to direct negative feedback",
+    "explanation": "Élément de référence : « France is closer to direct negative feedback ». Non, la France est plus proche du feedback négatif direct"
+  },
+  {
+    "id": "managerial-03",
+    "stem": "Un rapport développe une théorie avant de présenter les faits puis la conclusion. Quelle approche ?",
+    "options": [
+      "Task-based trust",
+      "Principles-first",
+      "Applications-first"
+    ],
+    "gold": 1,
+    "source": "DOC Support 6-1",
+    "needle": "Principles-first develops theory",
+    "explanation": "Élément de référence : « Principles-first develops theory ». Principles-first"
+  },
+  {
+    "id": "managerial-04",
+    "stem": "Un rapport commence par des recommandations en puces puis ajoute les concepts nécessaires. Quelle approche ?",
+    "options": [
+      "Applications-first",
+      "Principles-first",
+      "Hierarchical"
+    ],
+    "gold": 0,
+    "source": "DOC Support 6-1",
+    "needle": "executive summary or bullet points",
+    "explanation": "Élément de référence : « executive summary or bullet points ». Applications-first"
+  },
+  {
+    "id": "managerial-05",
+    "stem": "Quel comportement NE correspond PAS au feedback négatif indirect du support ?",
+    "options": [
+      "Critiquer en privé",
+      "Adoucir la critique avec des messages positifs",
+      "Critiquer publiquement avec des qualificatifs absolus"
+    ],
+    "gold": 2,
+    "source": "DOC Support 6-1",
+    "needle": "indirect negative feedback is private",
+    "explanation": "Élément de référence : « indirect negative feedback is private ». Critiquer publiquement avec des qualificatifs absolus"
+  },
+  {
+    "id": "managerial-06",
+    "stem": "Un chef agit en facilitateur parmi ses égaux et accepte de sauter les lignes hiérarchiques. Quel style ?",
+    "options": [
+      "Top-down",
+      "Egalitarian",
+      "Hierarchical"
+    ],
+    "gold": 1,
+    "source": "DOC Support 6-1",
+    "needle": "facilitator among equals",
+    "explanation": "Élément de référence : « facilitator among equals ». Egalitarian"
+  },
+  {
+    "id": "managerial-07",
+    "stem": "Les collaborateurs discutent mais le directeur décide seul. Selon la définition, la décision est :",
+    "options": [
+      "Top-down",
+      "Consensual",
+      "Unanime"
+    ],
+    "gold": 0,
+    "source": "DOC Support 6-1",
+    "needle": "made by an individual",
+    "explanation": "Élément de référence : « made by an individual ». Top-down"
+  },
+  {
+    "id": "managerial-08",
+    "stem": "Une équipe vote à la majorité malgré deux opposants. Est-ce une décision consensuelle au sens strict du support ?",
+    "options": [
+      "Oui, toute majorité est unanime",
+      "Oui, toute réunion est consensuelle",
+      "Non, le support exige un accord unanime"
+    ],
+    "gold": 2,
+    "source": "DOC Support 6-1",
+    "needle": "unanimous group agreement",
+    "explanation": "Élément de référence : « unanimous group agreement ». Non, le support exige un accord unanime"
+  }
+]

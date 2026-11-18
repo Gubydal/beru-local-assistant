@@ -1,0 +1,347 @@
+[
+  {
+    "id": "social",
+    "stem": "La culture est l’univers mental, moral et symbolique commun à une pluralité de personnes, leur permettant de communiquer et de reconnaître des liens communs. Il s’agit de :",
+    "options": [
+      "La fonction sociale de la culture",
+      "La fonction psychique de la culture"
+    ],
+    "gold": 0,
+    "source": "DOC Support 2-1",
+    "needle": "univers mental"
+  },
+  {
+    "id": "power",
+    "stem": "Dans le modèle de Hofstede, « Power Distance » signifie :",
+    "options": [
+      "Dans quelle mesure les personnes les MOINS puissantes acceptent une répartition inégale du pouvoir",
+      "Dans quelle mesure les personnes les PLUS puissantes acceptent une répartition inégale du pouvoir"
+    ],
+    "gold": 0,
+    "source": "Power-Distance",
+    "needle": "less powerful"
+  },
+  {
+    "id": "individualism",
+    "stem": "Selon Hofstede, dans une société individualiste les liens entre individus sont lâches. Chacun est censé s’occuper :",
+    "options": [
+      "De soi-même uniquement",
+      "De sa famille immédiate uniquement",
+      "De soi-même ET de sa famille immédiate"
+    ],
+    "gold": 2,
+    "source": "Individualism-Collectivism",
+    "needle": "immediate family"
+  },
+  {
+    "id": "psychic",
+    "stem": "La culture fournit aux individus des modes de pensée et des canaux d’expression des sentiments. Quelle fonction est décrite ?",
+    "options": [
+      "La fonction sociale",
+      "La fonction psychique",
+      "La distance hiérarchique"
+    ],
+    "gold": 1,
+    "source": "DOC Support 2-1",
+    "needle": "personnalités"
+  },
+  {
+    "id": "hall",
+    "stem": "In Hall’s framework, high-context communication relies primarily on:",
+    "options": [
+      "Explicit written messages alone",
+      "Shared context and implicit cues",
+      "A universally identical language"
+    ],
+    "gold": 1,
+    "source": "DOC Support 3-2",
+    "needle": "context"
+  },
+  {
+    "id": "hall_negative",
+    "stem": "Quel énoncé ne correspond PAS à une communication à contexte fort ?",
+    "options": [
+      "Le contexte partagé est important",
+      "Les indices implicites ont de l’importance",
+      "Tout le sens est nécessairement contenu dans des mots explicites"
+    ],
+    "gold": 2,
+    "source": "DOC Support 3-2",
+    "needle": "context"
+  },
+  {
+    "id": "trompenaars",
+    "stem": "Chez Trompenaars, une culture universaliste privilégie :",
+    "options": [
+      "Les règles communes applicables aux personnes",
+      "Les exceptions fondées sur les relations personnelles",
+      "L’absence de toute règle"
+    ],
+    "gold": 0,
+    "source": "learnlight",
+    "needle": "règles"
+  },
+  {
+    "id": "particularism",
+    "stem": "Trompenaars: prioritizing personal relationships and circumstances over uniform rules describes:",
+    "options": [
+      "Universalism",
+      "Particularism",
+      "Power distance"
+    ],
+    "gold": 1,
+    "source": "learnlight",
+    "needle": "circonstances"
+  },
+  {
+    "id": "neutral",
+    "stem": "Selon Trompenaars, une culture neutre dans le cadre professionnel :",
+    "options": [
+      "Valorise toujours l’expression publique intense des émotions",
+      "Décourage l’affichage des émotions au travail",
+      "Interdit toute émotion intérieure"
+    ],
+    "gold": 1,
+    "source": "learnlight",
+    "needle": "émotions"
+  },
+  {
+    "id": "diffuse",
+    "stem": "Chez Trompenaars, une culture diffuse :",
+    "options": [
+      "Sépare strictement toutes les relations privées et professionnelles",
+      "Peut favoriser les liens entre vie privée et professionnelle",
+      "Ne permet aucune relation personnelle"
+    ],
+    "gold": 1,
+    "source": "learnlight",
+    "needle": "vie privée"
+  },
+  {
+    "id": "generality",
+    "stem": "Les dimensions nationales de Hofstede permettent-elles de prédire avec certitude la personnalité de chaque individu ?",
+    "options": [
+      "Oui, sans aucune exception",
+      "Non, les tendances nationales ne déterminent pas chaque individu"
+    ],
+    "gold": 1,
+    "source": "study_guide",
+    "needle": "individual"
+  },
+  {
+    "id": "uncertainty",
+    "stem": "Hofstede: uncertainty avoidance concerns primarily:",
+    "options": [
+      "The acceptance of unequal power",
+      "Discomfort with ambiguity and uncertainty",
+      "The number of languages spoken"
+    ],
+    "gold": 1,
+    "source": "Uncertainty-Avoidance",
+    "needle": "uncertain"
+  },
+  {
+    "id": "all_both",
+    "stem": "Individualism in Hofstede means taking care of oneself and immediate family. Which option is correct?",
+    "options": [
+      "Oneself",
+      "Immediate family",
+      "Both A and B"
+    ],
+    "gold": 2,
+    "source": "Individualism-Collectivism",
+    "needle": "immediate family"
+  },
+  {
+    "id": "heldout_culture_learned",
+    "stem": "La culture est principalement :",
+    "options": [
+      "Acquise et transmise socialement",
+      "Un programme exclusivement génétique",
+      "Une propriété uniquement biologique"
+    ],
+    "gold": 0,
+    "source": "DOC Support 2-1",
+    "needle": null
+  },
+  {
+    "id": "heldout_tylor",
+    "stem": "Quel auteur a publié Primitive Culture en 1871 ?",
+    "options": [
+      "Geert Hofstede",
+      "Edgar Schein",
+      "Edward Tylor"
+    ],
+    "gold": 2,
+    "source": "DOC Support 2-2",
+    "needle": null
+  },
+  {
+    "id": "heldout_thomas",
+    "stem": "La méthode des standards culturels d’Alexander Thomas s’appuie notamment sur :",
+    "options": [
+      "La suppression de toute différence culturelle",
+      "Des entretiens qualitatifs et des situations critiques",
+      "Uniquement la génétique des populations"
+    ],
+    "gold": 1,
+    "source": "DOC Support 3-2",
+    "needle": null
+  },
+  {
+    "id": "heldout_schein",
+    "stem": "Le modèle de Schein distingue notamment :",
+    "options": [
+      "Hypothèses fondamentales, valeurs et artefacts",
+      "Uniquement les salaires et les contrats",
+      "Les six dimensions nationales de Hofstede"
+    ],
+    "gold": 0,
+    "source": "DOC Support 3-2",
+    "needle": null
+  },
+  {
+    "id": "heldout_hall_space",
+    "stem": "La proxémique étudiée par Edward Hall concerne :",
+    "options": [
+      "Les seuls fuseaux horaires",
+      "Les taux de change",
+      "L’usage culturel de l’espace et des distances"
+    ],
+    "gold": 2,
+    "source": "DOC Support 3-1",
+    "needle": null
+  },
+  {
+    "id": "heldout_framework_counts",
+    "stem": "Quel couple associe correctement deux modèles ?",
+    "options": [
+      "Les deux modèles ont exactement deux dimensions",
+      "Hofstede : six dimensions ; Trompenaars : sept dimensions",
+      "Hofstede : sept dimensions ; Trompenaars : six dimensions"
+    ],
+    "gold": 1,
+    "source": "DOC Support 3-2",
+    "needle": null
+  },
+  {
+    "id": "heldout_values_practices",
+    "stem": "Selon Schein, les valeurs et hypothèses d’une organisation peuvent contribuer à expliquer :",
+    "options": [
+      "Les comportements et les artefacts observables",
+      "Uniquement les statistiques démographiques nationales",
+      "L’absence de toute culture organisationnelle"
+    ],
+    "gold": 0,
+    "source": "DOC Support 3-2",
+    "needle": null
+  },
+  {
+    "id": "heldout_org_adapts",
+    "stem": "Selon la conception où l’organisation a une culture, celle-ci peut :",
+    "options": [
+      "Être nécessairement immuable",
+      "Ne concerner que les musées",
+      "Évoluer avec les environnements interne et externe"
+    ],
+    "gold": 2,
+    "source": "DOC Support 5-1",
+    "needle": null
+  },
+  {
+    "id": "heldout_survey_scope",
+    "stem": "Le document de l’enquête ENCGT indique une couverture proche de :",
+    "options": [
+      "9 millions de personnes en 2024",
+      "900 personnes sur trois années 2018 à 2020",
+      "90 personnes pendant une semaine"
+    ],
+    "gold": 1,
+    "source": "DOC_Résultats",
+    "needle": null
+  },
+  {
+    "id": "heldout_survey_extract",
+    "stem": "L’extrait d’exploitation présenté dans le document VSM13 concerne :",
+    "options": [
+      "Le tiers de la population enquêtée, en 2018",
+      "La totalité des habitants du Maroc",
+      "Uniquement les élèves de 2026"
+    ],
+    "gold": 0,
+    "source": "DOC_Résultats",
+    "needle": null
+  },
+  {
+    "id": "heldout_altrad",
+    "stem": "Dans le cas Altrad, ignorer la diversité des cultures est présenté comme :",
+    "options": [
+      "La meilleure stratégie recommandée",
+      "Une obligation juridique universelle",
+      "Une absence de stratégie ou une forme d’aveuglement"
+    ],
+    "gold": 2,
+    "source": "Altrad",
+    "needle": null
+  },
+  {
+    "id": "heldout_globalization",
+    "stem": "Quel changement favorise l’interdépendance internationale décrite dans le cours ?",
+    "options": [
+      "L’interdiction générale des investissements étrangers",
+      "La diminution des barrières commerciales",
+      "La disparition de tous les échanges"
+    ],
+    "gold": 1,
+    "source": "DOC Support 1-1",
+    "needle": null
+  },
+  {
+    "id": "heldout_neutral_inner",
+    "stem": "Une culture neutre signifie-t-elle que les personnes ne ressentent aucune émotion ?",
+    "options": [
+      "Non ; il s’agit surtout de leur expression dans le cadre professionnel",
+      "Oui, aucune personne n’y ressent d’émotion",
+      "Oui, par définition biologique"
+    ],
+    "gold": 0,
+    "source": "learnlight",
+    "needle": null
+  },
+  {
+    "id": "heldout_human_levels",
+    "stem": "Les trois niveaux de singularité de la programmation mentale distinguent :",
+    "options": [
+      "Nationalité, salaire et taille",
+      "Seulement la culture et le climat",
+      "Nature humaine, culture et personnalité"
+    ],
+    "gold": 2,
+    "source": "jWAJFqJLWSg",
+    "needle": null
+  },
+  {
+    "id": "heldout_internal_external",
+    "stem": "Chez Trompenaars, une orientation interne considère généralement que :",
+    "options": [
+      "Les émotions doivent toujours être cachées",
+      "L’être humain peut contrôler son environnement dans une certaine mesure",
+      "L’environnement ne peut jamais être influencé"
+    ],
+    "gold": 1,
+    "source": "learnlight",
+    "needle": null
+  },
+  {
+    "id": "heldout_achievement",
+    "stem": "Chez Trompenaars, le statut acquis est lié principalement :",
+    "options": [
+      "Aux réalisations et performances",
+      "Uniquement à la naissance et à l’origine",
+      "À la distance géographique"
+    ],
+    "gold": 0,
+    "source": "learnlight",
+    "needle": null
+  }
+]

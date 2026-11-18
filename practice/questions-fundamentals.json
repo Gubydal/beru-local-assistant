@@ -1,0 +1,314 @@
+[
+  {
+    "id": "fundamentals-01",
+    "stem": "Quelle compétence COI désigne le diagnostic culturel préalable ?",
+    "options": [
+      "Cultural Due Diligence",
+      "Style Switching",
+      "Cultural Mentoring"
+    ],
+    "gold": 0,
+    "source": "DOC Support 3-2",
+    "needle": "Identifier et évaluer",
+    "explanation": "Le passage de référence indique : « Identifier et évaluer ». La réponse attendue est : Cultural Due Diligence."
+  },
+  {
+    "id": "fundamentals-02",
+    "stem": "Modifier son propre style de communication selon la situation culturelle correspond à :",
+    "options": [
+      "Cultural Dialogue",
+      "Cultural Due Diligence",
+      "Style Switching"
+    ],
+    "gold": 2,
+    "source": "DOC Support 3-2",
+    "needle": "Savoir modifier son style",
+    "explanation": "Le passage de référence indique : « Savoir modifier son style ». La réponse attendue est : Style Switching."
+  },
+  {
+    "id": "fundamentals-03",
+    "stem": "Engager un échange explicite pour résoudre les malentendus correspond à :",
+    "options": [
+      "Style Switching",
+      "Cultural Dialogue",
+      "Cultural Mentoring"
+    ],
+    "gold": 1,
+    "source": "DOC Support 3-2",
+    "needle": "Engager un échange explicite",
+    "explanation": "Le passage de référence indique : « Engager un échange explicite ». La réponse attendue est : Cultural Dialogue."
+  },
+  {
+    "id": "fundamentals-04",
+    "stem": "Aider les autres à développer leurs capacités interculturelles correspond à :",
+    "options": [
+      "Cultural Mentoring",
+      "Cultural Due Diligence",
+      "Style Switching"
+    ],
+    "gold": 0,
+    "source": "DOC Support 3-2",
+    "needle": "Aider les autres",
+    "explanation": "Le passage de référence indique : « Aider les autres ». La réponse attendue est : Cultural Mentoring."
+  },
+  {
+    "id": "fundamentals-05",
+    "stem": "Dans le support, combien de dimensions le COI synthétise-t-il ?",
+    "options": [
+      "Six",
+      "Sept",
+      "Dix"
+    ],
+    "gold": 2,
+    "source": "DOC Support 3-2",
+    "needle": "10 dimensional model",
+    "explanation": "Le passage de référence indique : « 10 dimensional model ». La réponse attendue est : Dix."
+  },
+  {
+    "id": "fundamentals-06",
+    "stem": "La culture Clan de Cameron et Quinn combine :",
+    "options": [
+      "Orientation interne et stabilité",
+      "Orientation interne et flexibilité",
+      "Orientation externe et stabilité"
+    ],
+    "gold": 1,
+    "source": "DOC Support 5-1",
+    "needle": "internal focus and integration + flexibility",
+    "explanation": "Le passage de référence indique : « internal focus and integration + flexibility ». La réponse attendue est : Orientation interne et flexibilité."
+  },
+  {
+    "id": "fundamentals-07",
+    "stem": "La culture Adhocracy de Cameron et Quinn privilégie :",
+    "options": [
+      "Innovation et créativité",
+      "Règles fixes et contrôle uniquement",
+      "Stabilité interne avant tout"
+    ],
+    "gold": 0,
+    "source": "DOC Support 5-1",
+    "needle": "innovation",
+    "explanation": "Le passage de référence indique : « innovation ». La réponse attendue est : Innovation et créativité."
+  },
+  {
+    "id": "fundamentals-08",
+    "stem": "La culture Hierarchy de Cameron et Quinn combine :",
+    "options": [
+      "Orientation externe et flexibilité",
+      "Orientation externe et stabilité",
+      "Orientation interne et stabilité/contrôle"
+    ],
+    "gold": 2,
+    "source": "DOC Support 5-1",
+    "needle": "Hierarchy culture",
+    "explanation": "Le passage de référence indique : « Hierarchy culture ». La réponse attendue est : Orientation interne et stabilité/contrôle."
+  },
+  {
+    "id": "fundamentals-09",
+    "stem": "La culture Market de Cameron et Quinn combine :",
+    "options": [
+      "Orientation interne et stabilité",
+      "Orientation externe et stabilité/contrôle",
+      "Orientation interne et flexibilité"
+    ],
+    "gold": 1,
+    "source": "DOC Support 5-1",
+    "needle": "Market culture",
+    "explanation": "Le passage de référence indique : « Market culture ». La réponse attendue est : Orientation externe et stabilité/contrôle."
+  },
+  {
+    "id": "fundamentals-10",
+    "stem": "Dans le support organisationnel, Family, Eiffel Tower, Guided Missile et Incubator relèvent de :",
+    "options": [
+      "Trompenaars",
+      "Cameron et Quinn",
+      "Hofstede"
+    ],
+    "gold": 0,
+    "source": "DOC Support 5-1",
+    "needle": "Trompenaars",
+    "explanation": "Le passage de référence indique : « Trompenaars ». La réponse attendue est : Trompenaars."
+  },
+  {
+    "id": "fundamentals-11",
+    "stem": "Une communication low-context transmet surtout des messages :",
+    "options": [
+      "Toujours sous-entendus",
+      "Uniquement non verbaux",
+      "Explicites, précis et clairs"
+    ],
+    "gold": 2,
+    "source": "DOC Support 6-1",
+    "needle": "precise, simple, and clear",
+    "explanation": "Le passage de référence indique : « precise, simple, and clear ». La réponse attendue est : Explicites, précis et clairs."
+  },
+  {
+    "id": "fundamentals-12",
+    "stem": "La communication high-context fait notamment appel à :",
+    "options": [
+      "La répétition littérale obligatoire",
+      "La lecture entre les lignes",
+      "La suppression de tout contexte"
+    ],
+    "gold": 1,
+    "source": "DOC Support 6-1",
+    "needle": "read between the lines",
+    "explanation": "Le passage de référence indique : « read between the lines ». La réponse attendue est : La lecture entre les lignes."
+  },
+  {
+    "id": "fundamentals-13",
+    "stem": "Un feedback négatif indirect est donné :",
+    "options": [
+      "En privé, avec atténuations",
+      "Toujours publiquement et brutalement",
+      "Sans aucune formule positive"
+    ],
+    "gold": 0,
+    "source": "DOC Support 6-1",
+    "needle": "Criticism is given only in private",
+    "explanation": "Le passage de référence indique : « Criticism is given only in private ». La réponse attendue est : En privé, avec atténuations."
+  },
+  {
+    "id": "fundamentals-14",
+    "stem": "Une décision consensuelle, selon le support, repose sur :",
+    "options": [
+      "Le seul choix du chef",
+      "Un tirage au sort",
+      "Un accord unanime du groupe"
+    ],
+    "gold": 2,
+    "source": "DOC Support 6-1",
+    "needle": "unanimous agreement",
+    "explanation": "Le passage de référence indique : « unanimous agreement ». La réponse attendue est : Un accord unanime du groupe."
+  },
+  {
+    "id": "fundamentals-15",
+    "stem": "La confiance task-based s’appuie surtout sur :",
+    "options": [
+      "Le statut familial uniquement",
+      "Le travail fiable et régulier",
+      "Les repas partagés uniquement"
+    ],
+    "gold": 1,
+    "source": "DOC Support 6-1",
+    "needle": "good work consistently",
+    "explanation": "Le passage de référence indique : « good work consistently ». La réponse attendue est : Le travail fiable et régulier."
+  },
+  {
+    "id": "fundamentals-16",
+    "stem": "La confiance relationship-based se construit notamment par :",
+    "options": [
+      "Du temps personnel partagé et des relations durables",
+      "La seule ponctualité technique",
+      "Une décision individuelle du chef"
+    ],
+    "gold": 0,
+    "source": "DOC Support 6-1",
+    "needle": "sharing meals",
+    "explanation": "Le passage de référence indique : « sharing meals ». La réponse attendue est : Du temps personnel partagé et des relations durables."
+  },
+  {
+    "id": "fundamentals-17",
+    "stem": "Le linear-time privilégie :",
+    "options": [
+      "Les interruptions et tâches simultanées",
+      "L’abandon de toute échéance",
+      "Une tâche après l’autre et le respect du calendrier"
+    ],
+    "gold": 2,
+    "source": "DOC Support 6-1",
+    "needle": "One thing at a time",
+    "explanation": "Le passage de référence indique : « One thing at a time ». La réponse attendue est : Une tâche après l’autre et le respect du calendrier."
+  },
+  {
+    "id": "fundamentals-18",
+    "stem": "Le flexible-time accepte davantage :",
+    "options": [
+      "La priorité absolue du calendrier",
+      "Les interruptions et plusieurs tâches à la fois",
+      "Une séquence rigide sans interruption"
+    ],
+    "gold": 1,
+    "source": "DOC Support 6-1",
+    "needle": "interruptions accepted",
+    "explanation": "Le passage de référence indique : « interruptions accepted ». La réponse attendue est : Les interruptions et plusieurs tâches à la fois."
+  },
+  {
+    "id": "fundamentals-19",
+    "stem": "La formation du cas yéménite portait sur :",
+    "options": [
+      "Le contrôle du budget et des coûts",
+      "La conception de logiciels",
+      "La publicité numérique"
+    ],
+    "gold": 0,
+    "source": "DOC Support 6-2",
+    "needle": "contrôle du budget et des coûts",
+    "explanation": "Le passage de référence indique : « contrôle du budget et des coûts ». La réponse attendue est : Le contrôle du budget et des coûts."
+  },
+  {
+    "id": "fundamentals-20",
+    "stem": "Quelle était la durée prévue de la formation au Yémen ?",
+    "options": [
+      "Deux jours",
+      "Six mois",
+      "Deux semaines"
+    ],
+    "gold": 2,
+    "source": "DOC Support 6-2",
+    "needle": "deux semaines",
+    "explanation": "Le passage de référence indique : « deux semaines ». La réponse attendue est : Deux semaines."
+  },
+  {
+    "id": "fundamentals-21",
+    "stem": "Quelle adaptation Fanny propose-t-elle ?",
+    "options": [
+      "Interdire les pauses de prière",
+      "Poser elle-même les questions pendant que le consultant enseigne",
+      "Supprimer les exercices"
+    ],
+    "gold": 1,
+    "source": "DOC Support 6-2",
+    "needle": "Ce serait elle qui poserait les questions",
+    "explanation": "Le passage de référence indique : « Ce serait elle qui poserait les questions ». La réponse attendue est : Poser elle-même les questions pendant que le consultant enseigne."
+  },
+  {
+    "id": "fundamentals-22",
+    "stem": "Après cette adaptation, le cas rapporte :",
+    "options": [
+      "Une mise en pratique de l’enseignement et un succès",
+      "L’arrêt immédiat de la formation",
+      "L’exclusion de tous les participants"
+    ],
+    "gold": 0,
+    "source": "DOC Support 6-2",
+    "needle": "Le cours est devenu un succès",
+    "explanation": "Le passage de référence indique : « Le cours est devenu un succès ». La réponse attendue est : Une mise en pratique de l’enseignement et un succès."
+  },
+  {
+    "id": "fundamentals-23",
+    "stem": "Dans le témoignage vidéo marocain, quelle difficulté revient régulièrement ?",
+    "options": [
+      "Un excès systématique de livraisons en avance",
+      "Une absence de clients étrangers",
+      "Le dépassement des délais"
+    ],
+    "gold": 2,
+    "source": "9QdyxU7tseo",
+    "needle": "les délais sont",
+    "explanation": "Le passage de référence indique : « les délais sont ». La réponse attendue est : Le dépassement des délais."
+  },
+  {
+    "id": "fundamentals-24",
+    "stem": "Quelle expression le témoin emploie-t-il pour décrire le besoin de suivi ?",
+    "options": [
+      "Suppression de toute autonomie",
+      "Autonomie assistée",
+      "Autonomie sans aucun suivi"
+    ],
+    "gold": 1,
+    "source": "9QdyxU7tseo",
+    "needle": "autonomie assistée",
+    "explanation": "Le passage de référence indique : « autonomie assistée ». La réponse attendue est : Autonomie assistée."
+  }
+]

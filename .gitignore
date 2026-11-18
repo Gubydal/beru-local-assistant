@@ -1,0 +1,41 @@
+API.env
+.env
+.venv/
+research/repos/
+__pycache__/
+.media-venv/
+knowledge/media/
+*.sqlite
+.pytest_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+knowledge/gemini-vectors.npz
+
+# Credentials and machine-local configuration
+.env.*
+*.env
+*.pem
+*.key
+credentials*.json
+service-account*.json
+!.env.example
+!API.env.example
+
+# Private source documents, transcripts, derived indexes and audit captures
+knowledge/**
+!knowledge/documents/
+!knowledge/videos/
+!knowledge/web/
+!knowledge/documents/.gitkeep
+!knowledge/videos/.gitkeep
+!knowledge/web/.gitkeep
+research/
+
+# Build products and developer caches
+bin/
+*.npz
+*.sqlite-*
+.DS_Store
+htmlcov/
+coverage.xml
