@@ -81,7 +81,7 @@ def search(question, limit=8):
                 e["score"]
                 * (
                     0.45
-                    if any(n in e["source"] for n in ["study_guide", "guide_complet"])
+                    if any(n in e["source"] for n in ["study_guide", "guide_complet", ".reviewed."])
                     else 1
                 )
             ),
@@ -128,7 +128,7 @@ def search(question, limit=8):
                 ranks[k]
                 * (
                     0.45
-                    if any(n in k[0] for n in ["study_guide", "guide_complet"])
+                    if any(n in k[0] for n in ["study_guide", "guide_complet", ".reviewed."])
                     else 1
                 )
             ),

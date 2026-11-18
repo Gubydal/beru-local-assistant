@@ -15,7 +15,7 @@ for provider, key, models in [
     (
         "gemini",
         "GEMINI_API_KEY",
-        ["gemini-3.8-flash", "gemini-3.5-flash-lite", "gemini-4-argon"],
+        ["gemini-3.8-flash", "gemini-4-hydrogen", "gemini-3.5-flash-lite", "gemini-4-argon"],
     ),
     ("deepseek", "DEEPSEEK_API_KEY", ["deepseek-flash"]),
 ]:

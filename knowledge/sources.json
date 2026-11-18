@@ -1,0 +1,484 @@
+{
+  "sources": [
+    {
+      "id": "CAS_Cultural Differences_Altrad Group (1)",
+      "path": "knowledge/documents/CAS_Cultural Differences_Altrad Group (1).md",
+      "kind": "primary_course_or_lecture",
+      "sha256": "1748de8e09979b1e71101f66b7490fb0a792931219423991f712aa8df5f5afd2",
+      "characters": 23389,
+      "citations": "pages_or_slides",
+      "quality_notes": [
+        "Figures may require visual verification"
+      ]
+    },
+    {
+      "id": "DOC Support 1-1  (1)",
+      "path": "knowledge/documents/DOC Support 1-1  (1).md",
+      "kind": "primary_course_or_lecture",
+      "sha256": "6c2a789c4d0b8ba2d4b1c85e4edaa823c8e5166335f36cfb0b6c7e95fe9d9e41",
+      "characters": 27837,
+      "citations": "pages_or_slides",
+      "quality_notes": [
+        "Figures may require visual verification"
+      ]
+    },
+    {
+      "id": "DOC Support 2-1 (1)",
+      "path": "knowledge/documents/DOC Support 2-1 (1).md",
+      "kind": "primary_course_or_lecture",
+      "sha256": "886c3382f7a8e906d5d86f0abbbcaf038a00337e6b71d8acecaf301891287af8",
+      "characters": 6593,
+      "citations": "pages_or_slides",
+      "quality_notes": [
+        "Figures may require visual verification"
+      ]
+    },
+    {
+      "id": "DOC Support 2-2 (1)",
+      "path": "knowledge/documents/DOC Support 2-2 (1).md",
+      "kind": "primary_course_or_lecture",
+      "sha256": "4c8ed0e7ea947e3097b935b1a2273059f7758271fa9918aedf680d96a587503b",
+      "characters": 33992,
+      "citations": "pages_or_slides",
+      "quality_notes": [
+        "Figures may require visual verification"
+      ]
+    },
+    {
+      "id": "DOC Support 3-1",
+      "path": "knowledge/documents/DOC Support 3-1.md",
+      "kind": "primary_course_or_lecture",
+      "sha256": "bf583f63322dd22ccfcc9adbb873014664cbf548de72d8718ca20d9c7d6e42c7",
+      "characters": 5339,
+      "citations": "pages_or_slides",
+      "quality_notes": [
+        "Figures may require visual verification"
+      ]
+    },
+    {
+      "id": "DOC Support 3-2",
+      "path": "knowledge/documents/DOC Support 3-2.md",
+      "kind": "primary_course_or_lecture",
+      "sha256": "8585419ba92c18aa50dc1f5557972397afc798310b878a85b4b833d8a105ca09",
+      "characters": 13258,
+      "citations": "pages_or_slides",
+      "quality_notes": [
+        "Figures may require visual verification"
+      ]
+    },
+    {
+      "id": "DOC Support 5-1",
+      "path": "knowledge/documents/DOC Support 5-1.md",
+      "kind": "primary_course_or_lecture",
+      "sha256": "ea6d935ccf646b447559a3e449bdd13a25a68454759872fa420ff934f51d413a",
+      "characters": 12079,
+      "citations": "pages_or_slides",
+      "quality_notes": [
+        "Figures may require visual verification"
+      ]
+    },
+    {
+      "id": "DOC Support 6-1",
+      "path": "knowledge/documents/DOC Support 6-1.md",
+      "kind": "primary_course_or_lecture",
+      "sha256": "8cdfc1e71d2efcf0ebfba43e84168a1fd4acfbee661d95df4fd4afc32abe04fe",
+      "characters": 8885,
+      "citations": "pages_or_slides",
+      "quality_notes": [
+        "Figures may require visual verification"
+      ]
+    },
+    {
+      "id": "DOC Support 6-2",
+      "path": "knowledge/documents/DOC Support 6-2.md",
+      "kind": "primary_course_or_lecture",
+      "sha256": "0c2c2938ff7611760ddbd2e1654932d4fd786d606169e84af6112c23fef0ff24",
+      "characters": 3298,
+      "citations": "pages_or_slides",
+      "quality_notes": [
+        "Figures may require visual verification"
+      ]
+    },
+    {
+      "id": "DOC_Résultats Enquête VSM13_Etudiants-Parents (2018)",
+      "path": "knowledge/documents/DOC_Résultats Enquête VSM13_Etudiants-Parents (2018).md",
+      "kind": "primary_course_or_lecture",
+      "sha256": "f3ea6f9745ca86042829b19d1fc937a12c96440db984aec60f88f5b34de283fc",
+      "characters": 17198,
+      "citations": "pages_or_slides",
+      "quality_notes": [
+        "Figures may require visual verification"
+      ]
+    },
+    {
+      "id": "Individualism-Collectivism-in-10-minutes-2015-09-05",
+      "path": "knowledge/documents/Individualism-Collectivism-in-10-minutes-2015-09-05.md",
+      "kind": "primary_course_or_lecture",
+      "sha256": "487f64bb25d6218ba76f2b6a859a59511f0b0698962df46d7aeb8075264e33cf",
+      "characters": 3950,
+      "citations": "pages_or_slides",
+      "quality_notes": [
+        "Figures may require visual verification"
+      ]
+    },
+    {
+      "id": "Indulgence-vs-Restraint-in-10-minutes-2015-09-05",
+      "path": "knowledge/documents/Indulgence-vs-Restraint-in-10-minutes-2015-09-05.md",
+      "kind": "primary_course_or_lecture",
+      "sha256": "4615a5acb1de213f385d3d89f00698d0add29e4be8add126c54deb2f37858e7c",
+      "characters": 3762,
+      "citations": "pages_or_slides",
+      "quality_notes": [
+        "Figures may require visual verification"
+      ]
+    },
+    {
+      "id": "Long-Short-Term-Orientation-in-10-minutes-2015-09-05",
+      "path": "knowledge/documents/Long-Short-Term-Orientation-in-10-minutes-2015-09-05.md",
+      "kind": "primary_course_or_lecture",
+      "sha256": "230675d6468906292e6501a6df55c5fc35149a4f0012210f42e5f6e5120ed74d",
+      "characters": 3901,
+      "citations": "pages_or_slides",
+      "quality_notes": [
+        "Figures may require visual verification"
+      ]
+    },
+    {
+      "id": "MIC Complet.study_guide",
+      "path": "knowledge/documents/MIC Complet.study_guide.md",
+      "kind": "secondary_summary",
+      "sha256": "f29d6ee6ac7e664c99e65c8d90d92bdbf57939f98f209f144275080cbddb356b",
+      "characters": 128124,
+      "citations": "pages_or_slides",
+      "quality_notes": [
+        "Figures may require visual verification"
+      ]
+    },
+    {
+      "id": "Masculinity-Femininity-in-10-minutes-2015-09-05",
+      "path": "knowledge/documents/Masculinity-Femininity-in-10-minutes-2015-09-05.md",
+      "kind": "primary_course_or_lecture",
+      "sha256": "c5cf2ced6562b7ea70c1b79760a069b8b309e408823c1889042e4fdcf5aecc9e",
+      "characters": 3422,
+      "citations": "pages_or_slides",
+      "quality_notes": [
+        "Figures may require visual verification"
+      ]
+    },
+    {
+      "id": "Power-Distance-in-10-minutes-2015-09-05",
+      "path": "knowledge/documents/Power-Distance-in-10-minutes-2015-09-05.md",
+      "kind": "primary_course_or_lecture",
+      "sha256": "23f3a5939077edefa866989905ef50f329f3df536c35a6910c8732b68189985d",
+      "characters": 2971,
+      "citations": "pages_or_slides",
+      "quality_notes": [
+        "Figures may require visual verification"
+      ]
+    },
+    {
+      "id": "Questions MIC.reviewed",
+      "path": "knowledge/documents/Questions MIC.reviewed.md",
+      "kind": "reviewed_question_bank",
+      "sha256": "039fc488b06ac1e5563d3eed148eaa935f87953e9a36b601146b87d72423d61c",
+      "characters": 11515,
+      "citations": "pages_or_slides",
+      "quality_notes": [
+        "Figures may require visual verification"
+      ]
+    },
+    {
+      "id": "SUP_Générations et Entreprise",
+      "path": "knowledge/documents/SUP_Générations et Entreprise.md",
+      "kind": "primary_course_or_lecture",
+      "sha256": "9b07391c320f4f8703a50b902d220793a7cee282b6b9ee84704014e02847d59c",
+      "characters": 4553,
+      "citations": "pages_or_slides",
+      "quality_notes": [
+        "Figures may require visual verification"
+      ]
+    },
+    {
+      "id": "The-importance-of-an-international-perspective-2015-09-05",
+      "path": "knowledge/documents/The-importance-of-an-international-perspective-2015-09-05.md",
+      "kind": "primary_course_or_lecture",
+      "sha256": "83a4e31d8e66df15d6b6f4f8201bbc1b73ecdb445412633ccf9aeab326c3f46b",
+      "characters": 1826,
+      "citations": "pages_or_slides",
+      "quality_notes": [
+        "Figures may require visual verification"
+      ]
+    },
+    {
+      "id": "Uncertainty-Avoidance-in-10-minutes-2015-09-05",
+      "path": "knowledge/documents/Uncertainty-Avoidance-in-10-minutes-2015-09-05.md",
+      "kind": "primary_course_or_lecture",
+      "sha256": "9921d57a890bd01f1c269c9dd94c115e768b3a14fa0857940ffbf6df994e42d3",
+      "characters": 3811,
+      "citations": "pages_or_slides",
+      "quality_notes": [
+        "Figures may require visual verification"
+      ]
+    },
+    {
+      "id": "cross_cultural_management_study_guide",
+      "path": "knowledge/documents/cross_cultural_management_study_guide.md",
+      "kind": "secondary_summary",
+      "sha256": "a79f2a15e70e48ea6806b4e27a8d12d18a0ea96751d6d7795c3a6c629d371c9c",
+      "characters": 43798,
+      "citations": "pages_or_slides",
+      "quality_notes": [
+        "Figures may require visual verification"
+      ]
+    },
+    {
+      "id": "management_interculturel_guide_complet_FR",
+      "path": "knowledge/documents/management_interculturel_guide_complet_FR.md",
+      "kind": "secondary_summary",
+      "sha256": "8f5552645c37627be8aff0a8d1f4d880e9761d5573c9e885f74489061164ad6f",
+      "characters": 48705,
+      "citations": "pages_or_slides",
+      "quality_notes": [
+        "Figures may require visual verification"
+      ]
+    },
+    {
+      "id": "4mpcyxSdUcw",
+      "path": "knowledge/videos/4mpcyxSdUcw.md",
+      "kind": "transcript",
+      "sha256": "eaae00c4820dd35447298936f137cddaa89247efccaf247afb89cdeb6ba23162",
+      "characters": 2740,
+      "citations": "timestamps",
+      "quality_notes": [
+        "Automatic subtitles/ASR are unverified"
+      ]
+    },
+    {
+      "id": "7reXpmEc0Jo",
+      "path": "knowledge/videos/7reXpmEc0Jo.md",
+      "kind": "transcript",
+      "sha256": "cb9333ff090cb493a41292d364b954dab5ffe2b7a6c802329eba705162b87feb",
+      "characters": 14717,
+      "citations": "timestamps",
+      "quality_notes": [
+        "Automatic subtitles/ASR are unverified"
+      ]
+    },
+    {
+      "id": "9QdyxU7tseo",
+      "path": "knowledge/videos/9QdyxU7tseo.md",
+      "kind": "transcript",
+      "sha256": "75863b080f6f3280e3effe49d39f74ae10fa161da13b6e3af2a89a0917cf3496",
+      "characters": 6093,
+      "citations": "timestamps",
+      "quality_notes": [
+        "Automatic subtitles/ASR are unverified"
+      ]
+    },
+    {
+      "id": "DqAJclwfyCw",
+      "path": "knowledge/videos/DqAJclwfyCw.md",
+      "kind": "transcript",
+      "sha256": "28ba6ff0b72ef204615328b4284dd95a1e55323c797c89c8f9f4d6f68625a663",
+      "characters": 10110,
+      "citations": "timestamps",
+      "quality_notes": [
+        "Automatic subtitles/ASR are unverified"
+      ]
+    },
+    {
+      "id": "EkN83kdgHps",
+      "path": "knowledge/videos/EkN83kdgHps.md",
+      "kind": "transcript",
+      "sha256": "2379921341ef3492819272ace6b14b31f6b1e5179efc81b67c4adbc2ec0458d5",
+      "characters": 42525,
+      "citations": "timestamps",
+      "quality_notes": [
+        "Automatic subtitles/ASR are unverified"
+      ]
+    },
+    {
+      "id": "H8ygYIGsIQ4",
+      "path": "knowledge/videos/H8ygYIGsIQ4.md",
+      "kind": "transcript",
+      "sha256": "5393eea4d609d2daaf187e837983eb5a3bb25d38c0c03cd22a398e3909f57724",
+      "characters": 9338,
+      "citations": "timestamps",
+      "quality_notes": [
+        "Automatic subtitles/ASR are unverified"
+      ]
+    },
+    {
+      "id": "NFVMhfifZco",
+      "path": "knowledge/videos/NFVMhfifZco.md",
+      "kind": "transcript",
+      "sha256": "47dc6736b6b0f91f1e04ebaca97c0f2000cc2b6db1b6d0689bdb791f459b6df1",
+      "characters": 16210,
+      "citations": "timestamps",
+      "quality_notes": [
+        "Automatic subtitles/ASR are unverified"
+      ]
+    },
+    {
+      "id": "Pyr-XKQG2CM",
+      "path": "knowledge/videos/Pyr-XKQG2CM.md",
+      "kind": "transcript",
+      "sha256": "4a9ec4bf2d2fa343100f274dae94a42a99c1b2b9067edde240297852e6a83718",
+      "characters": 9138,
+      "citations": "timestamps",
+      "quality_notes": [
+        "Automatic subtitles/ASR are unverified"
+      ]
+    },
+    {
+      "id": "V0YgGdzmFtA",
+      "path": "knowledge/videos/V0YgGdzmFtA.md",
+      "kind": "transcript",
+      "sha256": "fae90d80c820ee54e3dd114584bcbce6067731f8edf8f58733be4363489c6586",
+      "characters": 7744,
+      "citations": "timestamps",
+      "quality_notes": [
+        "Automatic subtitles/ASR are unverified"
+      ]
+    },
+    {
+      "id": "VID_Valeurs",
+      "path": "knowledge/videos/VID_Valeurs.md",
+      "kind": "transcript",
+      "sha256": "48a6c1002a2626a45ed2000e61e31a88e573314c6269aff8a5e7bf0d46e3f4fc",
+      "characters": 7110,
+      "citations": "timestamps",
+      "quality_notes": [
+        "Automatic subtitles/ASR are unverified"
+      ]
+    },
+    {
+      "id": "eUsU2qf1zqA",
+      "path": "knowledge/videos/eUsU2qf1zqA.md",
+      "kind": "transcript",
+      "sha256": "7c3260646aca6a0a6405c8f714152bc997762b8b8fe001f9633634467c0581d8",
+      "characters": 27494,
+      "citations": "timestamps",
+      "quality_notes": [
+        "Automatic subtitles/ASR are unverified"
+      ]
+    },
+    {
+      "id": "fZF6LyGne7Q",
+      "path": "knowledge/videos/fZF6LyGne7Q.md",
+      "kind": "transcript",
+      "sha256": "84dc220e7f7eca623be11bc9d26fffa159e9c86ae1f1d1c650b981ab9f248137",
+      "characters": 13479,
+      "citations": "timestamps",
+      "quality_notes": [
+        "Automatic subtitles/ASR are unverified"
+      ]
+    },
+    {
+      "id": "jWAJFqJLWSg",
+      "path": "knowledge/videos/jWAJFqJLWSg.md",
+      "kind": "transcript",
+      "sha256": "e8bd402c7aaa02141e34010d143f177afb0a6b83b96e364d545ee5aecc28b806",
+      "characters": 2531,
+      "citations": "timestamps",
+      "quality_notes": [
+        "Automatic subtitles/ASR are unverified"
+      ]
+    },
+    {
+      "id": "z5EEz_R_RiE",
+      "path": "knowledge/videos/z5EEz_R_RiE.md",
+      "kind": "transcript",
+      "sha256": "18f32d8d36e93d2a84707208b5dd13b6fa2d7218044f15e321fc8172628f016d",
+      "characters": 4717,
+      "citations": "timestamps",
+      "quality_notes": [
+        "Automatic subtitles/ASR are unverified"
+      ]
+    },
+    {
+      "id": "zQj1VPNPHlI",
+      "path": "knowledge/videos/zQj1VPNPHlI.md",
+      "kind": "transcript",
+      "sha256": "40b472cc44d198f8b881d20e886af7bd7c5a530fb613f22815d214bacb1d2a82",
+      "characters": 10744,
+      "citations": "timestamps",
+      "quality_notes": [
+        "Automatic subtitles/ASR are unverified"
+      ]
+    },
+    {
+      "id": "hofstede-lectures",
+      "path": "knowledge/web/hofstede-lectures.md",
+      "kind": "web_article",
+      "sha256": "35c531a1a50107650d991c76cbb901ddeb57400dc78bc34bdfedf7916167588c",
+      "characters": 2128,
+      "citations": "URL",
+      "quality_notes": []
+    },
+    {
+      "id": "learnlight",
+      "path": "knowledge/web/learnlight.md",
+      "kind": "web_article",
+      "sha256": "96a4f51324e82718a9874625fd24828de52243f6bcd282fd3df05e79f22c0cf6",
+      "characters": 7126,
+      "citations": "URL",
+      "quality_notes": []
+    }
+  ],
+  "requested_resources": [
+    {
+      "requested": "SUP_Managerial behavior - Cultural aspects",
+      "status": "content_match",
+      "path": "knowledge/documents/DOC Support 6-1.md"
+    },
+    {
+      "requested": "CAS_Biais Culturel_Formation (Yemen)",
+      "status": "content_match",
+      "path": "knowledge/documents/DOC Support 6-2.md"
+    },
+    {
+      "requested": "VID_Biais culturel de la Gestion du Temps (Maroc)",
+      "status": "content_match",
+      "path": "knowledge/videos/9QdyxU7tseo.md"
+    },
+    {
+      "requested": "SUP_Organizational Culture",
+      "status": "content_match",
+      "path": "knowledge/documents/DOC Support 5-1.md"
+    }
+  ],
+  "verified_diagram_pages": {
+    "knowledge/documents/MIC Complet.study_guide.md": [
+      28,
+      35,
+      41,
+      48,
+      50
+    ],
+    "knowledge/documents/DOC Support 6-1.md": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "knowledge/documents/DOC Support 3-2.md": [
+      2
+    ],
+    "knowledge/documents/DOC Support 5-1.md": [
+      3,
+      6,
+      7
+    ]
+  },
+  "user_supplied_table": {
+    "source": "knowledge/documents/DOC Support 3-2.md",
+    "section": "COI — tableau des compétences",
+    "provenance": "User-provided slide photograph, visually transcribed; not a PDF page"
+  },
+  "notes": [
+    "Course labels are matched by content; missing files must not be treated as covered.",
+    "Visually checked diagram transcriptions are in the original source Markdown, not independent corroborating documents.",
+    "Generated source notes are stored outside the retrieval corpus."
+  ]
+}

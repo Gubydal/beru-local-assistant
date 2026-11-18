@@ -7,7 +7,7 @@ with sync_playwright() as p:
     browser=p.chromium.launch(executable_path=str(chrome),headless=True)
     page=browser.new_page(viewport={'width':1440,'height':1000})
     errors=[];page.on('pageerror',lambda e:errors.append(str(e)))
-    for name,count in [('fundamentals',24),('deep',28)]:
+    for name,count in [('fundamentals',24),('deep',28),('mic',20),('table41',45)]:
         page.goto('http://127.0.0.1:8765/?test='+name)
         page.wait_for_selector('.option')
         assert page.locator('.nav-item').count()==count
@@ -35,4 +35,4 @@ with sync_playwright() as p:
     assert not errors,errors
     page.screenshot(path=str(ROOT/'research/practice-added-tests.png'),full_page=True)
     browser.close()
-print('Both added tests: all 52 questions navigable, scoring/corrections, persistence, switching and mobile layout passed.')
+print('All four added tests: all 117 questions navigable, scoring/corrections, persistence, switching and mobile layout passed.')

@@ -1,0 +1,669 @@
+[
+  {
+    "id": "table41-01",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Image » ?",
+    "options": [
+      "Artéfacts / Extérieur / Immatériels",
+      "Artéfacts / Extérieur / Matériels",
+      "Artéfacts / Intérieur / Immatériels",
+      "Normes et valeurs / Extérieur / Immatériels"
+    ],
+    "gold": 0,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Image » : Artéfacts / Extérieur / Immatériels. Cette classification est propre au tableau du cours.",
+    "item": "Image",
+    "cell": 0
+  },
+  {
+    "id": "table41-02",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Présentation de la vision et philosophie de l’organisation » ?",
+    "options": [
+      "Artéfacts / Extérieur / Matériels",
+      "Artéfacts / Intérieur / Immatériels",
+      "Normes et valeurs / Extérieur / Immatériels",
+      "Artéfacts / Extérieur / Immatériels"
+    ],
+    "gold": 3,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Présentation de la vision et philosophie de l’organisation » : Artéfacts / Extérieur / Immatériels. Cette classification est propre au tableau du cours.",
+    "item": "Présentation de la vision et philosophie de l’organisation",
+    "cell": 0
+  },
+  {
+    "id": "table41-03",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Produit » ?",
+    "options": [
+      "Artéfacts / Intérieur / Matériels",
+      "Normes et valeurs / Extérieur / Matériels",
+      "Artéfacts / Extérieur / Matériels",
+      "Artéfacts / Extérieur / Immatériels"
+    ],
+    "gold": 2,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Produit » : Artéfacts / Extérieur / Matériels. Cette classification est propre au tableau du cours.",
+    "item": "Produit",
+    "cell": 1
+  },
+  {
+    "id": "table41-04",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Conception » ?",
+    "options": [
+      "Normes et valeurs / Extérieur / Matériels",
+      "Artéfacts / Extérieur / Matériels",
+      "Artéfacts / Extérieur / Immatériels",
+      "Artéfacts / Intérieur / Matériels"
+    ],
+    "gold": 1,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Conception » : Artéfacts / Extérieur / Matériels. Cette classification est propre au tableau du cours.",
+    "item": "Conception",
+    "cell": 1
+  },
+  {
+    "id": "table41-05",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Logo » ?",
+    "options": [
+      "Artéfacts / Extérieur / Matériels",
+      "Artéfacts / Extérieur / Immatériels",
+      "Artéfacts / Intérieur / Matériels",
+      "Normes et valeurs / Extérieur / Matériels"
+    ],
+    "gold": 0,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Logo » : Artéfacts / Extérieur / Matériels. Cette classification est propre au tableau du cours.",
+    "item": "Logo",
+    "cell": 1
+  },
+  {
+    "id": "table41-06",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Publicité » ?",
+    "options": [
+      "Artéfacts / Extérieur / Immatériels",
+      "Artéfacts / Intérieur / Matériels",
+      "Normes et valeurs / Extérieur / Matériels",
+      "Artéfacts / Extérieur / Matériels"
+    ],
+    "gold": 3,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Publicité » : Artéfacts / Extérieur / Matériels. Cette classification est propre au tableau du cours.",
+    "item": "Publicité",
+    "cell": 1
+  },
+  {
+    "id": "table41-07",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Devise (motto) » ?",
+    "options": [
+      "Artéfacts / Intérieur / Matériels",
+      "Normes et valeurs / Extérieur / Matériels",
+      "Artéfacts / Extérieur / Matériels",
+      "Artéfacts / Extérieur / Immatériels"
+    ],
+    "gold": 2,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Devise (motto) » : Artéfacts / Extérieur / Matériels. Cette classification est propre au tableau du cours.",
+    "item": "Devise (motto)",
+    "cell": 1
+  },
+  {
+    "id": "table41-08",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Couleurs organisationnelles » ?",
+    "options": [
+      "Normes et valeurs / Extérieur / Matériels",
+      "Artéfacts / Extérieur / Matériels",
+      "Artéfacts / Extérieur / Immatériels",
+      "Artéfacts / Intérieur / Matériels"
+    ],
+    "gold": 1,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Couleurs organisationnelles » : Artéfacts / Extérieur / Matériels. Cette classification est propre au tableau du cours.",
+    "item": "Couleurs organisationnelles",
+    "cell": 1
+  },
+  {
+    "id": "table41-09",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Architecture du bâtiment » ?",
+    "options": [
+      "Artéfacts / Extérieur / Matériels",
+      "Artéfacts / Extérieur / Immatériels",
+      "Artéfacts / Intérieur / Matériels",
+      "Normes et valeurs / Extérieur / Matériels"
+    ],
+    "gold": 0,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Architecture du bâtiment » : Artéfacts / Extérieur / Matériels. Cette classification est propre au tableau du cours.",
+    "item": "Architecture du bâtiment",
+    "cell": 1
+  },
+  {
+    "id": "table41-10",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Identification de la gestion des fonctions » ?",
+    "options": [
+      "Artéfacts / Extérieur / Immatériels",
+      "Artéfacts / Intérieur / Matériels",
+      "Normes et valeurs / Extérieur / Matériels",
+      "Artéfacts / Extérieur / Matériels"
+    ],
+    "gold": 3,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Identification de la gestion des fonctions » : Artéfacts / Extérieur / Matériels. Cette classification est propre au tableau du cours.",
+    "item": "Identification de la gestion des fonctions",
+    "cell": 1
+  },
+  {
+    "id": "table41-11",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Langage utilisé » ?",
+    "options": [
+      "Artéfacts / Intérieur / Matériels",
+      "Normes et valeurs / Intérieur / Immatériels",
+      "Artéfacts / Intérieur / Immatériels",
+      "Artéfacts / Extérieur / Immatériels"
+    ],
+    "gold": 2,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Langage utilisé » : Artéfacts / Intérieur / Immatériels. Cette classification est propre au tableau du cours.",
+    "item": "Langage utilisé",
+    "cell": 2
+  },
+  {
+    "id": "table41-12",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Histoires et mythes » ?",
+    "options": [
+      "Normes et valeurs / Intérieur / Immatériels",
+      "Artéfacts / Intérieur / Immatériels",
+      "Artéfacts / Extérieur / Immatériels",
+      "Artéfacts / Intérieur / Matériels"
+    ],
+    "gold": 1,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Histoires et mythes » : Artéfacts / Intérieur / Immatériels. Cette classification est propre au tableau du cours.",
+    "item": "Histoires et mythes",
+    "cell": 2
+  },
+  {
+    "id": "table41-13",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Coutumes » ?",
+    "options": [
+      "Artéfacts / Intérieur / Immatériels",
+      "Artéfacts / Extérieur / Immatériels",
+      "Artéfacts / Intérieur / Matériels",
+      "Normes et valeurs / Intérieur / Immatériels"
+    ],
+    "gold": 0,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Coutumes » : Artéfacts / Intérieur / Immatériels. Cette classification est propre au tableau du cours.",
+    "item": "Coutumes",
+    "cell": 2
+  },
+  {
+    "id": "table41-14",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Héros » ?",
+    "options": [
+      "Artéfacts / Extérieur / Immatériels",
+      "Artéfacts / Intérieur / Matériels",
+      "Normes et valeurs / Intérieur / Immatériels",
+      "Artéfacts / Intérieur / Immatériels"
+    ],
+    "gold": 3,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Héros » : Artéfacts / Intérieur / Immatériels. Cette classification est propre au tableau du cours.",
+    "item": "Héros",
+    "cell": 2
+  },
+  {
+    "id": "table41-15",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Rituels » ?",
+    "options": [
+      "Artéfacts / Intérieur / Matériels",
+      "Normes et valeurs / Intérieur / Immatériels",
+      "Artéfacts / Intérieur / Immatériels",
+      "Artéfacts / Extérieur / Immatériels"
+    ],
+    "gold": 2,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Rituels » : Artéfacts / Intérieur / Immatériels. Cette classification est propre au tableau du cours.",
+    "item": "Rituels",
+    "cell": 2
+  },
+  {
+    "id": "table41-16",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Cérémonie » ?",
+    "options": [
+      "Normes et valeurs / Intérieur / Immatériels",
+      "Artéfacts / Intérieur / Immatériels",
+      "Artéfacts / Extérieur / Immatériels",
+      "Artéfacts / Intérieur / Matériels"
+    ],
+    "gold": 1,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Cérémonie » : Artéfacts / Intérieur / Immatériels. Cette classification est propre au tableau du cours.",
+    "item": "Cérémonie",
+    "cell": 2
+  },
+  {
+    "id": "table41-17",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Valoriser les collaborateurs » ?",
+    "options": [
+      "Artéfacts / Intérieur / Immatériels",
+      "Artéfacts / Extérieur / Immatériels",
+      "Artéfacts / Intérieur / Matériels",
+      "Normes et valeurs / Intérieur / Immatériels"
+    ],
+    "gold": 0,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Valoriser les collaborateurs » : Artéfacts / Intérieur / Immatériels. Cette classification est propre au tableau du cours.",
+    "item": "Valoriser les collaborateurs",
+    "cell": 2
+  },
+  {
+    "id": "table41-18",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Statut salarié » ?",
+    "options": [
+      "Artéfacts / Extérieur / Immatériels",
+      "Artéfacts / Intérieur / Matériels",
+      "Normes et valeurs / Intérieur / Immatériels",
+      "Artéfacts / Intérieur / Immatériels"
+    ],
+    "gold": 3,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Statut salarié » : Artéfacts / Intérieur / Immatériels. Cette classification est propre au tableau du cours.",
+    "item": "Statut salarié",
+    "cell": 2
+  },
+  {
+    "id": "table41-19",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Environnement de travail » ?",
+    "options": [
+      "Artéfacts / Intérieur / Immatériels",
+      "Normes et valeurs / Intérieur / Matériels",
+      "Artéfacts / Intérieur / Matériels",
+      "Artéfacts / Extérieur / Matériels"
+    ],
+    "gold": 2,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Environnement de travail » : Artéfacts / Intérieur / Matériels. Cette classification est propre au tableau du cours.",
+    "item": "Environnement de travail",
+    "cell": 3
+  },
+  {
+    "id": "table41-20",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Articles promotionnels » ?",
+    "options": [
+      "Normes et valeurs / Intérieur / Matériels",
+      "Artéfacts / Intérieur / Matériels",
+      "Artéfacts / Extérieur / Matériels",
+      "Artéfacts / Intérieur / Immatériels"
+    ],
+    "gold": 1,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Articles promotionnels » : Artéfacts / Intérieur / Matériels. Cette classification est propre au tableau du cours.",
+    "item": "Articles promotionnels",
+    "cell": 3
+  },
+  {
+    "id": "table41-21",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Conditions de travail » ?",
+    "options": [
+      "Artéfacts / Intérieur / Matériels",
+      "Artéfacts / Extérieur / Matériels",
+      "Artéfacts / Intérieur / Immatériels",
+      "Normes et valeurs / Intérieur / Matériels"
+    ],
+    "gold": 0,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Conditions de travail » : Artéfacts / Intérieur / Matériels. Cette classification est propre au tableau du cours.",
+    "item": "Conditions de travail",
+    "cell": 3
+  },
+  {
+    "id": "table41-22",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Vêtements des employés » ?",
+    "options": [
+      "Artéfacts / Extérieur / Matériels",
+      "Artéfacts / Intérieur / Immatériels",
+      "Normes et valeurs / Intérieur / Matériels",
+      "Artéfacts / Intérieur / Matériels"
+    ],
+    "gold": 3,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Vêtements des employés » : Artéfacts / Intérieur / Matériels. Cette classification est propre au tableau du cours.",
+    "item": "Vêtements des employés",
+    "cell": 3
+  },
+  {
+    "id": "table41-23",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Avantages sociaux » ?",
+    "options": [
+      "Artéfacts / Intérieur / Immatériels",
+      "Normes et valeurs / Intérieur / Matériels",
+      "Artéfacts / Intérieur / Matériels",
+      "Artéfacts / Extérieur / Matériels"
+    ],
+    "gold": 2,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Avantages sociaux » : Artéfacts / Intérieur / Matériels. Cette classification est propre au tableau du cours.",
+    "item": "Avantages sociaux",
+    "cell": 3
+  },
+  {
+    "id": "table41-24",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Stratégie d’organisation » ?",
+    "options": [
+      "Normes et valeurs / Intérieur / Immatériels",
+      "Normes et valeurs / Extérieur / Immatériels",
+      "Artéfacts / Extérieur / Immatériels",
+      "Normes et valeurs / Extérieur / Matériels"
+    ],
+    "gold": 1,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Stratégie d’organisation » : Normes et valeurs / Extérieur / Immatériels. Cette classification est propre au tableau du cours.",
+    "item": "Stratégie d’organisation",
+    "cell": 4
+  },
+  {
+    "id": "table41-25",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Négociation sur le marché » ?",
+    "options": [
+      "Normes et valeurs / Extérieur / Immatériels",
+      "Artéfacts / Extérieur / Immatériels",
+      "Normes et valeurs / Extérieur / Matériels",
+      "Normes et valeurs / Intérieur / Immatériels"
+    ],
+    "gold": 0,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Négociation sur le marché » : Normes et valeurs / Extérieur / Immatériels. Cette classification est propre au tableau du cours.",
+    "item": "Négociation sur le marché",
+    "cell": 4
+  },
+  {
+    "id": "table41-26",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Négociation avec les partenaires d’affaires » ?",
+    "options": [
+      "Artéfacts / Extérieur / Immatériels",
+      "Normes et valeurs / Extérieur / Matériels",
+      "Normes et valeurs / Intérieur / Immatériels",
+      "Normes et valeurs / Extérieur / Immatériels"
+    ],
+    "gold": 3,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Négociation avec les partenaires d’affaires » : Normes et valeurs / Extérieur / Immatériels. Cette classification est propre au tableau du cours.",
+    "item": "Négociation avec les partenaires d’affaires",
+    "cell": 4
+  },
+  {
+    "id": "table41-27",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Communication avec les clients » ?",
+    "options": [
+      "Normes et valeurs / Extérieur / Matériels",
+      "Normes et valeurs / Intérieur / Immatériels",
+      "Normes et valeurs / Extérieur / Immatériels",
+      "Artéfacts / Extérieur / Immatériels"
+    ],
+    "gold": 2,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Communication avec les clients » : Normes et valeurs / Extérieur / Immatériels. Cette classification est propre au tableau du cours.",
+    "item": "Communication avec les clients",
+    "cell": 4
+  },
+  {
+    "id": "table41-28",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Code d’éthique » ?",
+    "options": [
+      "Normes et valeurs / Intérieur / Matériels",
+      "Normes et valeurs / Extérieur / Matériels",
+      "Artéfacts / Extérieur / Matériels",
+      "Normes et valeurs / Extérieur / Immatériels"
+    ],
+    "gold": 1,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Code d’éthique » : Normes et valeurs / Extérieur / Matériels. Cette classification est propre au tableau du cours.",
+    "item": "Code d’éthique",
+    "cell": 5
+  },
+  {
+    "id": "table41-29",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Développement durable » ?",
+    "options": [
+      "Normes et valeurs / Extérieur / Matériels",
+      "Artéfacts / Extérieur / Matériels",
+      "Normes et valeurs / Extérieur / Immatériels",
+      "Normes et valeurs / Intérieur / Matériels"
+    ],
+    "gold": 0,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Développement durable » : Normes et valeurs / Extérieur / Matériels. Cette classification est propre au tableau du cours.",
+    "item": "Développement durable",
+    "cell": 5
+  },
+  {
+    "id": "table41-30",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Responsabilité sociétale de l’entreprise » ?",
+    "options": [
+      "Artéfacts / Extérieur / Matériels",
+      "Normes et valeurs / Extérieur / Immatériels",
+      "Normes et valeurs / Intérieur / Matériels",
+      "Normes et valeurs / Extérieur / Matériels"
+    ],
+    "gold": 3,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Responsabilité sociétale de l’entreprise » : Normes et valeurs / Extérieur / Matériels. Cette classification est propre au tableau du cours.",
+    "item": "Responsabilité sociétale de l’entreprise",
+    "cell": 5
+  },
+  {
+    "id": "table41-31",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Style de management » ?",
+    "options": [
+      "Normes et valeurs / Extérieur / Immatériels",
+      "Normes et valeurs / Intérieur / Matériels",
+      "Normes et valeurs / Intérieur / Immatériels",
+      "Artéfacts / Intérieur / Immatériels"
+    ],
+    "gold": 2,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Style de management » : Normes et valeurs / Intérieur / Immatériels. Cette classification est propre au tableau du cours.",
+    "item": "Style de management",
+    "cell": 6
+  },
+  {
+    "id": "table41-32",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Ambiance de travail » ?",
+    "options": [
+      "Normes et valeurs / Intérieur / Matériels",
+      "Normes et valeurs / Intérieur / Immatériels",
+      "Artéfacts / Intérieur / Immatériels",
+      "Normes et valeurs / Extérieur / Immatériels"
+    ],
+    "gold": 1,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Ambiance de travail » : Normes et valeurs / Intérieur / Immatériels. Cette classification est propre au tableau du cours.",
+    "item": "Ambiance de travail",
+    "cell": 6
+  },
+  {
+    "id": "table41-33",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Flux d’information » ?",
+    "options": [
+      "Normes et valeurs / Intérieur / Immatériels",
+      "Artéfacts / Intérieur / Immatériels",
+      "Normes et valeurs / Extérieur / Immatériels",
+      "Normes et valeurs / Intérieur / Matériels"
+    ],
+    "gold": 0,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Flux d’information » : Normes et valeurs / Intérieur / Immatériels. Cette classification est propre au tableau du cours.",
+    "item": "Flux d’information",
+    "cell": 6
+  },
+  {
+    "id": "table41-34",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Relations dans l’espace de travail » ?",
+    "options": [
+      "Artéfacts / Intérieur / Immatériels",
+      "Normes et valeurs / Extérieur / Immatériels",
+      "Normes et valeurs / Intérieur / Matériels",
+      "Normes et valeurs / Intérieur / Immatériels"
+    ],
+    "gold": 3,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Relations dans l’espace de travail » : Normes et valeurs / Intérieur / Immatériels. Cette classification est propre au tableau du cours.",
+    "item": "Relations dans l’espace de travail",
+    "cell": 6
+  },
+  {
+    "id": "table41-35",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Structure organisationnelle » ?",
+    "options": [
+      "Normes et valeurs / Extérieur / Matériels",
+      "Normes et valeurs / Intérieur / Immatériels",
+      "Normes et valeurs / Intérieur / Matériels",
+      "Artéfacts / Intérieur / Matériels"
+    ],
+    "gold": 2,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Structure organisationnelle » : Normes et valeurs / Intérieur / Matériels. Cette classification est propre au tableau du cours.",
+    "item": "Structure organisationnelle",
+    "cell": 7
+  },
+  {
+    "id": "table41-36",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Règlement et documents organisationnels » ?",
+    "options": [
+      "Normes et valeurs / Intérieur / Immatériels",
+      "Normes et valeurs / Intérieur / Matériels",
+      "Artéfacts / Intérieur / Matériels",
+      "Normes et valeurs / Extérieur / Matériels"
+    ],
+    "gold": 1,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Règlement et documents organisationnels » : Normes et valeurs / Intérieur / Matériels. Cette classification est propre au tableau du cours.",
+    "item": "Règlement et documents organisationnels",
+    "cell": 7
+  },
+  {
+    "id": "table41-37",
+    "stem": "Selon le tableau « Composantes de la CO » page 41, où se classe « Normes informelles » ?",
+    "options": [
+      "Normes et valeurs / Intérieur / Matériels",
+      "Artéfacts / Intérieur / Matériels",
+      "Normes et valeurs / Extérieur / Matériels",
+      "Normes et valeurs / Intérieur / Immatériels"
+    ],
+    "gold": 0,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule du tableau contient « Normes informelles » : Normes et valeurs / Intérieur / Matériels. Cette classification est propre au tableau du cours.",
+    "item": "Normes informelles",
+    "cell": 7
+  },
+  {
+    "id": "table41-inverse-1",
+    "stem": "Dans le tableau page 41, quel ensemble appartient à la cellule « Artéfacts / Extérieur / Immatériels » ?",
+    "options": [
+      "Image ; Présentation de la vision et philosophie de l’organisation",
+      "Produit ; Conception",
+      "Langage utilisé ; Histoires et mythes",
+      "Environnement de travail ; Articles promotionnels"
+    ],
+    "gold": 0,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule Artéfacts / Extérieur / Immatériels énumère : Image; Présentation de la vision et philosophie de l’organisation.",
+    "cell": 0
+  },
+  {
+    "id": "table41-inverse-2",
+    "stem": "Dans le tableau page 41, quel ensemble appartient à la cellule « Artéfacts / Extérieur / Matériels » ?",
+    "options": [
+      "Image ; Présentation de la vision et philosophie de l’organisation",
+      "Langage utilisé ; Histoires et mythes",
+      "Environnement de travail ; Articles promotionnels",
+      "Produit ; Conception"
+    ],
+    "gold": 3,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule Artéfacts / Extérieur / Matériels énumère : Produit; Conception; Logo; Publicité; Devise (motto); Couleurs organisationnelles; Architecture du bâtiment; Identification de la gestion des fonctions.",
+    "cell": 1
+  },
+  {
+    "id": "table41-inverse-3",
+    "stem": "Dans le tableau page 41, quel ensemble appartient à la cellule « Artéfacts / Intérieur / Immatériels » ?",
+    "options": [
+      "Produit ; Conception",
+      "Environnement de travail ; Articles promotionnels",
+      "Langage utilisé ; Histoires et mythes",
+      "Image ; Présentation de la vision et philosophie de l’organisation"
+    ],
+    "gold": 2,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule Artéfacts / Intérieur / Immatériels énumère : Langage utilisé; Histoires et mythes; Coutumes; Héros; Rituels; Cérémonie; Valoriser les collaborateurs; Statut salarié.",
+    "cell": 2
+  },
+  {
+    "id": "table41-inverse-4",
+    "stem": "Dans le tableau page 41, quel ensemble appartient à la cellule « Artéfacts / Intérieur / Matériels » ?",
+    "options": [
+      "Langage utilisé ; Histoires et mythes",
+      "Environnement de travail ; Articles promotionnels",
+      "Image ; Présentation de la vision et philosophie de l’organisation",
+      "Produit ; Conception"
+    ],
+    "gold": 1,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule Artéfacts / Intérieur / Matériels énumère : Environnement de travail; Articles promotionnels; Conditions de travail; Vêtements des employés; Avantages sociaux.",
+    "cell": 3
+  },
+  {
+    "id": "table41-inverse-5",
+    "stem": "Dans le tableau page 41, quel ensemble appartient à la cellule « Normes et valeurs / Extérieur / Immatériels » ?",
+    "options": [
+      "Stratégie d’organisation ; Négociation sur le marché",
+      "Image ; Présentation de la vision et philosophie de l’organisation",
+      "Produit ; Conception",
+      "Langage utilisé ; Histoires et mythes"
+    ],
+    "gold": 0,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule Normes et valeurs / Extérieur / Immatériels énumère : Stratégie d’organisation; Négociation sur le marché; Négociation avec les partenaires d’affaires; Communication avec les clients.",
+    "cell": 4
+  },
+  {
+    "id": "table41-inverse-6",
+    "stem": "Dans le tableau page 41, quel ensemble appartient à la cellule « Normes et valeurs / Extérieur / Matériels » ?",
+    "options": [
+      "Image ; Présentation de la vision et philosophie de l’organisation",
+      "Produit ; Conception",
+      "Langage utilisé ; Histoires et mythes",
+      "Code d’éthique ; Développement durable"
+    ],
+    "gold": 3,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule Normes et valeurs / Extérieur / Matériels énumère : Code d’éthique; Développement durable; Responsabilité sociétale de l’entreprise.",
+    "cell": 5
+  },
+  {
+    "id": "table41-inverse-7",
+    "stem": "Dans le tableau page 41, quel ensemble appartient à la cellule « Normes et valeurs / Intérieur / Immatériels » ?",
+    "options": [
+      "Produit ; Conception",
+      "Langage utilisé ; Histoires et mythes",
+      "Style de management ; Ambiance de travail",
+      "Image ; Présentation de la vision et philosophie de l’organisation"
+    ],
+    "gold": 2,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule Normes et valeurs / Intérieur / Immatériels énumère : Style de management; Ambiance de travail; Flux d’information; Relations dans l’espace de travail.",
+    "cell": 6
+  },
+  {
+    "id": "table41-inverse-8",
+    "stem": "Dans le tableau page 41, quel ensemble appartient à la cellule « Normes et valeurs / Intérieur / Matériels » ?",
+    "options": [
+      "Langage utilisé ; Histoires et mythes",
+      "Structure organisationnelle ; Règlement et documents organisationnels",
+      "Image ; Présentation de la vision et philosophie de l’organisation",
+      "Produit ; Conception"
+    ],
+    "gold": 1,
+    "source": "MIC Complet, page 41 ; DOC Support 5-1, page 3",
+    "explanation": "La cellule Normes et valeurs / Intérieur / Matériels énumère : Structure organisationnelle; Règlement et documents organisationnels; Normes informelles.",
+    "cell": 7
+  }
+]

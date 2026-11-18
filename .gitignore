@@ -22,14 +22,9 @@ service-account*.json
 !.env.example
 !API.env.example
 
-# Private source documents, transcripts, derived indexes and audit captures
-knowledge/**
-!knowledge/documents/
-!knowledge/videos/
-!knowledge/web/
-!knowledge/documents/.gitkeep
-!knowledge/videos/.gitkeep
-!knowledge/web/.gitkeep
+# Share reviewed knowledge sources; exclude raw media and generated indexes
+knowledge/media/
+knowledge/**/*.draft.md
 research/
 
 # Build products and developer caches
@@ -39,3 +34,4 @@ bin/
 .DS_Store
 htmlcov/
 coverage.xml
+

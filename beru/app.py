@@ -160,7 +160,7 @@ class App(QWidget):
         layout.addWidget(self.provider)
         self.model = QComboBox()
         self.model.addItems(
-            ["gemini-3.8-flash", "gemini-4-argon", "gemini-3.5-flash-lite"]
+            ["gemini-3.8-flash", "gemini-4-hydrogen", "gemini-4-argon", "gemini-3.5-flash-lite"]
         )
         layout.addWidget(self.model)
         self.provider.currentTextChanged.connect(self.change_provider)
@@ -200,7 +200,7 @@ class App(QWidget):
         self.model.blockSignals(True)
         self.model.clear()
         self.model.addItems(
-            ["gemini-3.8-flash", "gemini-4-argon", "gemini-3.5-flash-lite"]
+            ["gemini-3.8-flash", "gemini-4-hydrogen", "gemini-4-argon", "gemini-3.5-flash-lite"]
             if provider == "gemini"
             else ["deepseek-flash"]
         )

@@ -1,0 +1,307 @@
+[
+  {
+    "id": "mic-p02",
+    "page": 2,
+    "stem": "« La mondialisation a largement contribué à imposer différents aspects multiculturels dans le management. » Cette proposition est :",
+    "options": [
+      "Plutôt vraie",
+      "Plutôt fausse"
+    ],
+    "gold": 0,
+    "source": "Questions MIC, page 2 ; MIC Complet, pages 1–4",
+    "answer_source": "MIC Complet, pages 1–4",
+    "explanation": "La compilation relie mondialisation, ouverture internationale et besoin de management global. Réponse déduite du cours, pas validée par la lettre étudiante. Phrase transcrite par l’utilisateur, orthographe normalisée.",
+    "observed_annotation": "A — annotation étudiante non confirmée",
+    "validation_status": "course_supported_user_transcription",
+    "user_transcription": "la mondialization a largement contribuer a impose differents aspects multiculturelles dans le managment"
+  },
+  {
+    "id": "mic-p03",
+    "page": 3,
+    "stem": "Dans l’entreprise présentée dans la vidéo sur la confiance, quels critères de performance le dirigeant avance-t-il ?",
+    "options": [
+      "Garder les clients",
+      "Éviter la fuite des talents",
+      "Les deux"
+    ],
+    "gold": 2,
+    "source": "Questions MIC, page 3 ; VID_Valeurs, 346.5–357.5s",
+    "answer_source": "VID_Valeurs, 346.5–357.5s",
+    "explanation": "Le dirigeant évoque la conservation des employés et des clients, puis l’absence de fuite des talents.",
+    "observed_annotation": "C",
+    "validation_status": "course_supported"
+  },
+  {
+    "id": "mic-p04",
+    "page": 4,
+    "stem": "La confiance traitée dans la vidéo sur le Danemark est de nature :",
+    "options": [
+      "Interpersonnelle",
+      "Envers les institutions",
+      "Les deux"
+    ],
+    "gold": 2,
+    "source": "Questions MIC, page 4 ; VID_Valeurs, 64.5s et 268.5–301.5s",
+    "answer_source": "VID_Valeurs, 64.5s et 268.5–301.5s",
+    "explanation": "La vidéo évoque la confiance envers le prochain et envers les institutions.",
+    "observed_annotation": "C",
+    "validation_status": "course_supported"
+  },
+  {
+    "id": "mic-p05",
+    "page": 5,
+    "stem": "« L’étude de la culture dans toutes ses dimensions » relève de quelle discipline ?",
+    "options": [
+      "L’anthropologie",
+      "La sociologie",
+      "La sémiotique"
+    ],
+    "gold": 0,
+    "source": "Questions MIC, page 5 ; MIC Complet, page 24",
+    "answer_source": "MIC Complet, page 24",
+    "explanation": "Le tableau des disciplines associe l’anthropologie à la culture dans toutes ses dimensions.",
+    "observed_annotation": "A",
+    "validation_status": "course_supported"
+  },
+  {
+    "id": "mic-p06",
+    "page": 6,
+    "stem": "Selon Hofstede : nature humaine universelle et biologique ; culture propre au groupe et apprise ; personnalité propre à l’individu, héritée et apprise. Ce schéma est-il correct ?",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "gold": 0,
+    "source": "Questions MIC, page 6 ; MIC Complet, page 7",
+    "answer_source": "MIC Complet, page 7",
+    "explanation": "Les trois niveaux sont transcrits dans le même ordre que le diagramme. La question a été reformulée en texte pour remplacer l’image.",
+    "observed_annotation": "A",
+    "validation_status": "course_supported"
+  },
+  {
+    "id": "mic-p08",
+    "page": 8,
+    "stem": "Les photos de groupes de supporters ultras, avec leurs signes et pratiques propres au sein d’une société, illustrent plutôt :",
+    "options": [
+      "Une culture nationale entière",
+      "Une sous-culture"
+    ],
+    "gold": 1,
+    "source": "Questions MIC, page 8 ; MIC Complet, page 18",
+    "answer_source": "MIC Complet, page 18",
+    "explanation": "Une sous-culture correspond ici à un groupe particulier au sein d’une culture plus étendue. Reformulation descriptive des photos, non reproduction des images.",
+    "observed_annotation": "B",
+    "validation_status": "course_supported"
+  },
+  {
+    "id": "mic-p09",
+    "page": 9,
+    "stem": "« L’étude des groupes et organisations humaines » relève de quelle discipline ?",
+    "options": [
+      "L’anthropologie",
+      "La sociologie",
+      "La sémiotique"
+    ],
+    "gold": 1,
+    "source": "Questions MIC, page 9 ; MIC Complet, page 24",
+    "answer_source": "MIC Complet, page 24",
+    "explanation": "Le support associe la sociologie à l’étude des sociétés humaines, groupes et organisations.",
+    "observed_annotation": "B",
+    "validation_status": "course_supported"
+  },
+  {
+    "id": "mic-p12",
+    "page": 12,
+    "stem": "Selon le tableau de Hall du cours, quel contexte décrit ce comportement ? Les relations génèrent un bas niveau d’obligation et d’engagement envers les autres.",
+    "options": [
+      "High Context — contexte implicite",
+      "Low Context — contexte explicite"
+    ],
+    "gold": 1,
+    "source": "Questions MIC, page 12 ; MIC Complet, page 28",
+    "answer_source": "MIC Complet, page 28",
+    "explanation": "Le tableau attribue une faible obligation au contexte bas.",
+    "observed_annotation": "B",
+    "validation_status": "course_supported"
+  },
+  {
+    "id": "mic-p13",
+    "page": 13,
+    "stem": "Selon le tableau de Hall du cours, quel contexte décrit ce comportement ? Quand le terme « Inchallah » a un seul sens, on est plutôt dans…",
+    "options": [
+      "High Context — contexte implicite",
+      "Low Context — contexte explicite"
+    ],
+    "gold": 1,
+    "source": "Questions MIC, page 13 ; MIC Complet, page 28",
+    "answer_source": "MIC Complet, page 28",
+    "explanation": "Interprétation de cours : un sens explicite et non dépendant du contexte correspond au contexte bas. Le mot à lui seul ne suffit pas à classifier une culture.",
+    "observed_annotation": "B",
+    "validation_status": "course_supported"
+  },
+  {
+    "id": "mic-p14",
+    "page": 14,
+    "stem": "Selon le tableau de Hall du cours, quel contexte décrit ce comportement ? Le plus souvent, on maintient un comportement apparent de politesse.",
+    "options": [
+      "High Context — contexte implicite",
+      "Low Context — contexte explicite"
+    ],
+    "gold": 0,
+    "source": "Questions MIC, page 14 ; MIC Complet, page 28",
+    "answer_source": "MIC Complet, page 28",
+    "explanation": "La ligne « Semble être très poli » se trouve dans la colonne du contexte élevé.",
+    "observed_annotation": "A",
+    "validation_status": "course_supported"
+  },
+  {
+    "id": "mic-p15",
+    "page": 15,
+    "stem": "Selon le tableau de Hall du cours, quel contexte décrit ce comportement ? Les relations sont plutôt peu durables dans le temps.",
+    "options": [
+      "High Context — contexte implicite",
+      "Low Context — contexte explicite"
+    ],
+    "gold": 1,
+    "source": "Questions MIC, page 15 ; MIC Complet, page 28",
+    "answer_source": "MIC Complet, page 28",
+    "explanation": "Relations temporaires et transitoires : contexte bas.",
+    "observed_annotation": null,
+    "validation_status": "course_supported"
+  },
+  {
+    "id": "mic-p16",
+    "page": 16,
+    "stem": "Selon le tableau de Hall du cours, quel contexte décrit ce comportement ? On a tendance à accorder la confiance jusqu’à preuve du contraire.",
+    "options": [
+      "High Context — contexte implicite",
+      "Low Context — contexte explicite"
+    ],
+    "gold": 1,
+    "source": "Questions MIC, page 16 ; MIC Complet, page 28",
+    "answer_source": "MIC Complet, page 28",
+    "explanation": "Le tableau attribue explicitement cette confiance initiale au contexte bas.",
+    "observed_annotation": "B",
+    "validation_status": "course_supported"
+  },
+  {
+    "id": "mic-p17",
+    "page": 17,
+    "stem": "Selon le tableau de Hall du cours, quel contexte décrit ce comportement ? Pour exprimer son désaccord en public, on préfère utiliser des expressions indirectes.",
+    "options": [
+      "High Context — contexte implicite",
+      "Low Context — contexte explicite"
+    ],
+    "gold": 0,
+    "source": "Questions MIC, page 17 ; MIC Complet, page 28",
+    "answer_source": "MIC Complet, page 28",
+    "explanation": "Le tableau associe l’expression indirecte des informations négatives en public au contexte élevé.",
+    "observed_annotation": null,
+    "validation_status": "course_supported"
+  },
+  {
+    "id": "mic-p18",
+    "page": 18,
+    "stem": "Selon le tableau de Hall du cours, quel contexte décrit ce comportement ? Les informations sont perçues à travers le message oral.",
+    "options": [
+      "High Context — contexte implicite",
+      "Low Context — contexte explicite"
+    ],
+    "gold": 1,
+    "source": "Questions MIC, page 18 ; MIC Complet, page 28",
+    "answer_source": "MIC Complet, page 28",
+    "explanation": "CONFLIT : la capture sélectionne A, mais le tableau distingue l’information dans le contenu verbal (contexte bas) de l’information contextuelle (contexte élevé). Réponse de cours retenue : contexte bas ; sélection photographiée non validée.",
+    "observed_annotation": "A",
+    "validation_status": "conflict_resolved_from_course"
+  },
+  {
+    "id": "mic-p19",
+    "page": 19,
+    "stem": "Selon le tableau de Hall du cours, quel contexte décrit ce comportement ? Les informations sont perçues grâce à l’environnement contextuel.",
+    "options": [
+      "High Context — contexte implicite",
+      "Low Context — contexte explicite"
+    ],
+    "gold": 0,
+    "source": "Questions MIC, page 19 ; MIC Complet, page 28",
+    "answer_source": "MIC Complet, page 28",
+    "explanation": "L’information provenant du contexte physique correspond au contexte élevé.",
+    "observed_annotation": "A",
+    "validation_status": "course_supported"
+  },
+  {
+    "id": "mic-p20",
+    "page": 20,
+    "stem": "Selon le tableau de Hall du cours, quel contexte décrit ce comportement ? Avant d’entamer une réunion, un moment rituel est souvent nécessaire.",
+    "options": [
+      "High Context — contexte implicite",
+      "Low Context — contexte explicite"
+    ],
+    "gold": 0,
+    "source": "Questions MIC, page 20 ; MIC Complet, page 28",
+    "answer_source": "MIC Complet, page 28",
+    "explanation": "La période d’échauffement avant un échange sérieux est associée au contexte élevé.",
+    "observed_annotation": "A",
+    "validation_status": "course_supported"
+  },
+  {
+    "id": "mic-p21",
+    "page": 21,
+    "stem": "Selon le tableau de Hall du cours, quel contexte décrit ce comportement ? On a l’habitude de s’incruster dans la vie des autres.",
+    "options": [
+      "High Context — contexte implicite",
+      "Low Context — contexte explicite"
+    ],
+    "gold": 0,
+    "source": "Questions MIC, page 21 ; MIC Complet, page 28",
+    "answer_source": "MIC Complet, page 28",
+    "explanation": "Le tableau associe l’implication dans la vie d’autrui au contexte élevé. Il s’agit d’un contraste pédagogique, pas d’une propriété de chaque personne.",
+    "observed_annotation": null,
+    "validation_status": "course_supported"
+  },
+  {
+    "id": "mic-p22",
+    "page": 22,
+    "stem": "Selon le tableau de Hall du cours, quel contexte décrit ce comportement ? Il est difficile de créer des relations d’amitié.",
+    "options": [
+      "High Context — contexte implicite",
+      "Low Context — contexte explicite"
+    ],
+    "gold": 0,
+    "source": "Questions MIC, page 22 ; MIC Complet, page 28",
+    "answer_source": "MIC Complet, page 28",
+    "explanation": "Le tableau place la difficulté à nouer des amitiés dans le contexte élevé.",
+    "observed_annotation": "A",
+    "validation_status": "course_supported"
+  },
+  {
+    "id": "mic-p23",
+    "page": 23,
+    "stem": "Selon le tableau de Hall du cours, quel contexte décrit ce comportement ? On tolère plutôt facilement de s’écarter des protocoles culturels.",
+    "options": [
+      "High Context — contexte implicite",
+      "Low Context — contexte explicite"
+    ],
+    "gold": 1,
+    "source": "Questions MIC, page 23 ; MIC Complet, page 28",
+    "answer_source": "MIC Complet, page 28",
+    "explanation": "CONFLIT : la capture sélectionne A, mais la tolérance des écarts au protocole figure dans la colonne contexte bas. La sélection photographiée n’est pas une correction officielle.",
+    "observed_annotation": "A",
+    "validation_status": "conflict_resolved_from_course"
+  },
+  {
+    "id": "mic-p24",
+    "page": 24,
+    "stem": "Selon le tableau de Hall du cours, quel contexte décrit ce comportement ? Les messages sont facilement interprétés par les étrangers.",
+    "options": [
+      "High Context — contexte implicite",
+      "Low Context — contexte explicite"
+    ],
+    "gold": 1,
+    "source": "Questions MIC, page 24 ; MIC Complet, page 28",
+    "answer_source": "MIC Complet, page 28",
+    "explanation": "L’information accessible aux étrangers figure dans la colonne du contexte bas.",
+    "observed_annotation": "B",
+    "validation_status": "course_supported"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "source": "/Users/mohammed/Downloads/New Folder With Items/DOC Support 3-2.pdf",
+    "output": "knowledge/documents/DOC Support 3-2.md",
+    "pages": 7,
+    "characters": 10331,
+    "empty_pages": []
+  },
+  {
+    "source": "/Users/mohammed/Downloads/New Folder With Items/SUP_Générations et Entreprise.pdf",
+    "output": "knowledge/documents/SUP_Générations et Entreprise.md",
+    "pages": 5,
+    "characters": 2333,
+    "empty_pages": [
+      5
+    ]
+  },
+  {
+    "source": "/Users/mohammed/Downloads/New Folder With Items/DOC Support 3-1.pdf",
+    "output": "knowledge/documents/DOC Support 3-1.md",
+    "pages": 4,
+    "characters": 5191,
+    "empty_pages": []
+  },
+  {
+    "source": "/Users/mohammed/Downloads/New Folder With Items/DOC Support 2-2 (1).pdf",
+    "output": "knowledge/documents/DOC Support 2-2 (1).md",
+    "pages": 10,
+    "characters": 34737,
+    "empty_pages": []
+  },
+  {
+    "source": "/Users/mohammed/Downloads/New Folder With Items/DOC Support 5-1.pdf",
+    "output": "knowledge/documents/DOC Support 5-1.md",
+    "pages": 7,
+    "characters": 7685,
+    "empty_pages": []
+  },
+  {
+    "source": "/Users/mohammed/Downloads/New Folder With Items/cross_cultural_management_study_guide.pdf",
+    "output": "knowledge/documents/cross_cultural_management_study_guide.md",
+    "pages": 23,
+    "characters": 43345,
+    "empty_pages": []
+  },
+  {
+    "source": "/Users/mohammed/Downloads/New Folder With Items/DOC Support 2-1 (1).pdf",
+    "output": "knowledge/documents/DOC Support 2-1 (1).md",
+    "pages": 4,
+    "characters": 6437,
+    "empty_pages": []
+  },
+  {
+    "source": "/Users/mohammed/Downloads/New Folder With Items/CAS_Cultural Differences_Altrad Group (1).pdf",
+    "output": "knowledge/documents/CAS_Cultural Differences_Altrad Group (1).md",
+    "pages": 13,
+    "characters": 23068,
+    "empty_pages": []
+  },
+  {
+    "source": "/Users/mohammed/Downloads/New Folder With Items/DOC_Résultats Enquête VSM13_Etudiants-Parents (2018).pdf",
+    "output": "knowledge/documents/DOC_Résultats Enquête VSM13_Etudiants-Parents (2018).md",
+    "pages": 7,
+    "characters": 8961,
+    "empty_pages": []
+  },
+  {
+    "source": "/Users/mohammed/Downloads/New Folder With Items/DOC Support 6-2.pdf",
+    "output": "knowledge/documents/DOC Support 6-2.md",
+    "pages": 1,
+    "characters": 3189,
+    "empty_pages": []
+  },
+  {
+    "source": "/Users/mohammed/Downloads/New Folder With Items/DOC Support 1-1  (1).pdf",
+    "output": "knowledge/documents/DOC Support 1-1  (1).md",
+    "pages": 12,
+    "characters": 419,
+    "empty_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "source": "/Users/mohammed/Downloads/New Folder With Items/management_interculturel_guide_complet_FR.pdf",
+    "output": "knowledge/documents/management_interculturel_guide_complet_FR.md",
+    "pages": 28,
+    "characters": 48174,
+    "empty_pages": []
+  },
+  {
+    "source": "https://www.youtube.com/watch?v=9QdyxU7tseo",
+    "output": "knowledge/videos/9QdyxU7tseo.md"
+  },
+  {
+    "source": "https://www.youtube.com/watch?v=NFVMhfifZco",
+    "output": "knowledge/videos/NFVMhfifZco.md"
+  },
+  {
+    "source": "https://www.youtube.com/watch?v=jWAJFqJLWSg",
+    "output": "knowledge/videos/jWAJFqJLWSg.md"
+  },
+  {
+    "source": "https://www.youtube.com/watch?v=eUsU2qf1zqA",
+    "output": "knowledge/videos/eUsU2qf1zqA.md"
+  },
+  {
+    "source": "https://www.youtube.com/watch?v=z5EEz_R_RiE",
+    "output": "knowledge/videos/z5EEz_R_RiE.md"
+  },
+  {
+    "source": "https://www.youtube.com/watch?v=EkN83kdgHps",
+    "error": "\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=EkN83kdgHps! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+  },
+  {
+    "source": "https://www.youtube.com/watch?v=7reXpmEc0Jo",
+    "output": "knowledge/videos/7reXpmEc0Jo.md"
+  }
+]

@@ -28,3 +28,16 @@ class UiTests(unittest.TestCase):
         window.render()
         self.assertIn("Page 3", window.output.toPlainText())
         window.close()
+
+
+def test_hydrogen_is_selectable_after_provider_switch(qtbot):
+    window = App()
+    window.timer.stop()
+    qtbot.addWidget(window)
+    assert window.model.findText('gemini-4-hydrogen') >= 0
+    window.model.setCurrentText('gemini-4-hydrogen')
+    assert window.model.currentText() == 'gemini-4-hydrogen'
+    window.provider.setCurrentText('deepseek')
+    assert window.model.findText('gemini-4-hydrogen') == -1
+    window.provider.setCurrentText('gemini')
+    assert window.model.findText('gemini-4-hydrogen') >= 0

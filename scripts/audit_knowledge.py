@@ -10,12 +10,14 @@ for folder in ["documents", "videos", "web"]:
         if ".draft." in p.name:
             continue
         text = p.read_text()
-        secondary = any(s in p.stem for s in ["study_guide", "guide_complet"])
+        secondary = any(s in p.stem for s in ["study_guide", "guide_complet", ".reviewed"])
         records.append(
             dict(
                 id=p.stem,
                 path=str(p.relative_to(ROOT)),
-                kind="secondary_summary"
+                kind="reviewed_question_bank"
+                if ".reviewed" in p.stem
+                else "secondary_summary"
                 if secondary
                 else "transcript"
                 if folder == "videos"
@@ -62,6 +64,7 @@ registry = {
     "sources": records,
     "requested_resources": mappings,
     "verified_diagram_pages": {
+        "knowledge/documents/MIC Complet.study_guide.md": [28, 35, 41, 48, 50],
         "knowledge/documents/DOC Support 6-1.md": [1, 2, 3, 4],
         "knowledge/documents/DOC Support 3-2.md": [2],
         "knowledge/documents/DOC Support 5-1.md": [3, 6, 7],
@@ -92,6 +95,7 @@ audit = {
     "stale_generated_notes_not_used_for_retrieval": stale_notes,
     "requested_resources": mappings,
     "verified_diagram_pages": {
+        "knowledge/documents/MIC Complet.study_guide.md": [28, 35, 41, 48, 50],
         "knowledge/documents/DOC Support 6-1.md": [1, 2, 3, 4],
         "knowledge/documents/DOC Support 3-2.md": [2],
         "knowledge/documents/DOC Support 5-1.md": [3, 6, 7],

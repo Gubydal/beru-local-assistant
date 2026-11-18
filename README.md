@@ -2,11 +2,21 @@
 
 A macOS always-on-top MCQ assistant with region selection, automatic change detection, local Apple Vision OCR (English/French), local document search, and Gemini/DeepSeek API answering. Answer-only view is default; evidence can be expanded.
 
-## Repository contents and private data
+## Repository contents and setup on another device
 
-This repository includes application source, the local practice website, scripts and tests. API credentials, original course documents/transcripts, generated knowledge indexes, screenshots, live API responses, cloned reference projects and virtual environments are excluded. The course-specific practice questions are included; they are generated exercises, not an official exam answer key.
+The private repository includes the reviewed course knowledge under [`knowledge/`](knowledge/): document Markdown, timestamped video transcripts, web extracts, source hashes and catalog metadata. All five practice tests are included. These study materials are not an official exam answer key. Raw video/PDF downloads, draft transcripts, generated indexes, credentials, audit screenshots and virtual environments are excluded.
 
-Copy `API.env.example` to `API.env` and fill in your own provider key locally. Add your own Markdown sources under `knowledge/documents/`, `knowledge/videos/` or `knowledge/web/`, then build the index. A fresh clone has no private knowledge corpus. A small fictional corpus is provided under [`examples/knowledge/`](examples/knowledge/); see [`examples/README.md`](examples/README.md) for format examples, optional import commands and sample questions. It stays outside the active index until explicitly imported. Corpus-specific audits and benchmarks require the original local sources; they will not reproduce from the code alone.
+A clone contains the knowledge **sources**, but retrieval indexes must be rebuilt on that device. Without the sources or stronger retrieval index, answers may become uncertain. Uncertainty can also indicate ambiguous wording, poor OCR or conflicting evidence; copying the corpus does not guarantee every answer.
+
+After installing dependencies, copy `API.env.example` to `API.env` and enter your key on that device. Then run:
+
+```sh
+.venv/bin/python scripts/setup_knowledge.py --cloud
+```
+
+This builds the local keyword index, then creates the stronger Gemini embedding index using your own key. Source passages are sent to Google during embedding; vectors are stored locally. Use the command without `--cloud` for keyword-only indexing, which has lower cross-language recall. Rebuild after pulling knowledge changes; restart Beru afterward. Do not copy or commit your credentials.
+
+The fictional corpus under [`examples/knowledge/`](examples/knowledge/) remains separate from the active course corpus.
 
 ## Run
 
@@ -93,3 +103,9 @@ Set `BERU_CLOUD_RETRIEVAL=0` in the launch environment to keep retrieval local. 
 
 
 Practice now offers three tests in the **Test** menu: original (29), fundamentals (24), and deep scenarios (28). The two added tests focus on organizational culture, managerial behavior, the Yemen case, Morocco time-management testimony, and the COI skills table. Direct URLs: `http://127.0.0.1:8765/?test=fundamentals` and `http://127.0.0.1:8765/?test=deep`. Each test saves separate progress; corrections and source references appear after finishing. Practice gold answers are course-derived, not an official instructor key. Generated questions stay outside the retrieval corpus.
+
+
+The fourth test (`?test=mic`) uses the included reviewed question bank at `practice/questions-mic.json`. Answers transcribed from course exercises may be indexed as secondary, source-checked evidence; uncertain handwritten corrections and selected radios are not authoritative answer keys. Original handouts take precedence over conflicting compilations. Private import audit files record PDF page numbers, corrections and unresolved image details outside the retrieval corpus.
+
+
+For local study, the fifth test (`?test=table41`) reads the included `practice/questions-table41.json`. It covers all eight cells of the page-41 organizational-culture table: 37 item classifications and eight inverse questions. The local MIC test now includes 20 questions after user transcription of the blurry globalization sentence.

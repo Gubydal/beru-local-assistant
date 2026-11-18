@@ -13,11 +13,7 @@ for p in sorted((root / "knowledge").rglob("*.md")):
             "characters": len(text),
             "pages_or_slides": len(re.findall(r"^## (?:Page|Slide) ", text, re.M)),
             "timestamped_lines": len(re.findall(r"^\[\d", text, re.M)),
-            "secondary": p.stem
-            in [
-                "cross_cultural_management_study_guide",
-                "management_interculturel_guide_complet_FR",
-            ],
+            "secondary": any(marker in p.stem for marker in ["study_guide", "guide_complet", ".reviewed"]),
         }
     )
 (root / "knowledge/catalog.json").write_text(
