@@ -6,7 +6,7 @@ A macOS always-on-top MCQ assistant with region selection, automatic change dete
 
 This repository includes application source, the local practice website, scripts and tests. API credentials, original course documents/transcripts, generated knowledge indexes, screenshots, live API responses, cloned reference projects and virtual environments are excluded. The course-specific practice questions are included; they are generated exercises, not an official exam answer key.
 
-Copy `API.env.example` to `API.env` and fill in your own provider key locally. Add your own Markdown sources under `knowledge/documents/`, `knowledge/videos/` or `knowledge/web/`, then build the index. A fresh clone has no private knowledge corpus. Corpus-specific audits and benchmarks require the original local sources; they will not reproduce from the code alone.
+Copy `API.env.example` to `API.env` and fill in your own provider key locally. Add your own Markdown sources under `knowledge/documents/`, `knowledge/videos/` or `knowledge/web/`, then build the index. A fresh clone has no private knowledge corpus. A small fictional corpus is provided under [`examples/knowledge/`](examples/knowledge/); see [`examples/README.md`](examples/README.md) for format examples, optional import commands and sample questions. It stays outside the active index until explicitly imported. Corpus-specific audits and benchmarks require the original local sources; they will not reproduce from the code alone.
 
 ## Run
 
