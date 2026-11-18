@@ -1,4 +1,4 @@
-"""Conservative extraction of a single visible MCQ, excluding Moodle chrome."""
+"""Conservative extraction of one visible question, with explicit MCQ and written modes."""
 
 import re, hashlib, unicodedata
 from dataclasses import dataclass
@@ -117,3 +117,20 @@ def parse(lines):
 
 def from_text(text):
     return parse([{"text": line, "confidence": 1} for line in text.splitlines()])
+
+
+def parse_written(lines):
+    """Explicit written mode: retain the prompt; exclude empty-field and Moodle chrome."""
+    clean = [l for l in lines if l.get('text', '').strip() and not NOISE.search(l['text'].strip())
+             and not re.match(r'^(?:réponse\s*:?|answer\s*:?|saisissez votre réponse|écrivez votre réponse|format\s*:|paragraphe|mots?\s*:\s*\d*)$', l['text'].strip(), re.I)]
+    text = ' '.join(l['text'].strip() for l in clean)
+    if len(text) < 12:
+        raise ValueError('Written question is missing or unreadable; capture the complete prompt.')
+    confidence = min((float(l.get('confidence', 1)) for l in clean), default=0)
+    if confidence < 0.35:
+        raise ValueError('OCR confidence is too low; enlarge or recapture the written question.')
+    boxes = [l['box'] for l in clean if l.get('box')]
+    box = None
+    if boxes:
+        box = (max(0,min(b[0] for b in boxes)-.015),max(0,min(b[1] for b in boxes)-.02),min(1,max(b[0]+b[2] for b in boxes)+.025),min(1,max(b[1]+b[3] for b in boxes)+.03))
+    return Question(text, {}, confidence, box)

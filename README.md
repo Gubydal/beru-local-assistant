@@ -1,6 +1,6 @@
 # Beru local prototype
 
-A macOS always-on-top MCQ assistant with region selection, automatic change detection, local Apple Vision OCR (English/French), local document search, and Gemini/DeepSeek API answering. Answer-only view is default; evidence can be expanded.
+A macOS always-on-top MCQ and written-answer assistant with region selection, automatic change detection, local Apple Vision OCR (English/French), local document search, and Gemini/DeepSeek API answering. Answer-only view is default; evidence can be expanded.
 
 ## Repository contents and setup on another device
 
@@ -109,3 +109,10 @@ The fourth test (`?test=mic`) uses the included reviewed question bank at `pract
 
 
 For local study, the fifth test (`?test=table41`) reads the included `practice/questions-table41.json`. It covers all eight cells of the page-41 organizational-culture table: 37 item classifications and eight inverse questions. The local MIC test now includes 20 questions after user transcription of the blurry globalization sentence.
+
+
+## COI focus and written answers
+
+The overlay offers **Multiple choice (QCM)** and **Written answer** in the question-type selector. **COI focus** is enabled by default: it guides retrieval and answering toward the Cultural Orientations Indicator. Uncheck it for general course questions. Each original COI wheel mapping is paired with its page-6 definition so both definitions and orientations can be retrieved together.
+
+For a written question, select **Written answer**, capture the prompt only (leave existing typed answers and editor controls outside the area), and press **Capture** or use Watch. Beru generates a short source-grounded response in the question’s language. **Copy answer** copies only the answer text, without evidence or uncertainty labels, for you to paste. It does not type into the browser automatically. QCM mode still requires complete visible choices; written mode is explicit rather than a silent fallback for cropped MCQs. Diagram input remains available through **Include image for diagrams**. Switching question type or COI focus clears the old result; caches distinguish both settings.

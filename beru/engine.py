@@ -21,17 +21,21 @@ class Engine:
         on_read=None,
         use_cache=True,
         refresh=False,
+        mode="mcq",
+        topic=None,
     ):
+        if mode not in {"mcq", "written"}:
+            raise ValueError("Unknown question type")
         started = time.monotonic()
         vision_fallback = False
         try:
-            question = read(image)
+            question = read(image) if mode == "mcq" else read(image, mode=mode)
         except ValueError:
             if not visual:
                 raise
             buffer = io.BytesIO()
             image.save(buffer, format="PNG")
-            question = read_image(buffer.getvalue(), provider, model)
+            question = read_image(buffer.getvalue(), provider, model) if mode == "mcq" else read_image(buffer.getvalue(), provider, model, mode=mode)
             vision_fallback = True
         ocr_seconds = time.monotonic() - started
         if on_read:
@@ -59,6 +63,7 @@ class Engine:
         key = hashlib.sha256(
             (
                 question.fingerprint
+                + mode + str(topic)
                 + provider
                 + retrieval_version
                 + model
@@ -76,20 +81,23 @@ class Engine:
                 "ocr_seconds": ocr_seconds,
             }
         t = time.monotonic()
-        evidence = search(question.text)
+        evidence = search(("COI Cultural Orientations Indicator: " if topic == "coi" else "") + question.text)
         retrieval_seconds = time.monotonic() - t
-        result = answer(question.text, evidence, provider, model, image=payload)
+        prompt_text = ("Course context: Cultural Orientations Indicator (COI).\n" if topic == "coi" else "") + question.text
+        result = answer(prompt_text, evidence, provider, model, image=payload) if mode == "mcq" else answer(prompt_text, evidence, provider, model, image=payload, mode=mode)
         if result["answer"].strip().upper() in ["NONE", "AUCUNE", "NO ANSWER"]:
             raise Abstention(
-                "No supported answer among the visible choices; capture the complete question or inspect the sources."
+                "No supported answer; capture the complete question or inspect the sources."
             )
         match = re.match(r"^\s*([a-f])(?:[.\s):]|$)", result["answer"], re.I)
-        if not match or match[1].lower() not in question.options:
+        if mode == "mcq" and (not match or match[1].lower() not in question.options):
             raise ValueError(
                 "Model returned an option outside the visible choices; recapture or retry."
             )
         result.update(
             question=question.text,
+            question_mode=mode,
+            topic=topic,
             evidence=evidence,
             total=time.monotonic() - started,
             ocr_seconds=ocr_seconds,

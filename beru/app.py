@@ -165,6 +165,15 @@ class App(QWidget):
         layout.addWidget(self.model)
         self.provider.currentTextChanged.connect(self.change_provider)
         self.model.currentTextChanged.connect(lambda _: self.invalidate())
+        self.question_type = QComboBox()
+        self.question_type.addItem("Multiple choice (QCM)", "mcq")
+        self.question_type.addItem("Written answer", "written")
+        layout.addWidget(self.question_type)
+        self.coi_focus = QCheckBox("COI focus")
+        self.coi_focus.setChecked(True)
+        layout.addWidget(self.coi_focus)
+        self.question_type.currentIndexChanged.connect(self.change_question_type)
+        self.coi_focus.toggled.connect(self.change_question_type)
         self.visual = QCheckBox("Include image for diagrams")
         layout.addWidget(self.visual)
         self.status = QLabel("Select a question area. Keep this panel outside it.")
@@ -173,6 +182,10 @@ class App(QWidget):
         self.output = QTextEdit()
         self.output.setReadOnly(True)
         layout.addWidget(self.output)
+        self.copy_button = QPushButton("Copy answer")
+        self.copy_button.setEnabled(False)
+        self.copy_button.clicked.connect(self.copy_answer)
+        layout.addWidget(self.copy_button)
         self.details = QPushButton("Show evidence")
         self.details.setCheckable(True)
         self.details.clicked.connect(self.render)
@@ -194,6 +207,20 @@ class App(QWidget):
         self.timer = QTimer()
         self.timer.timeout.connect(self.tick)
         self.timer.start(300)
+
+    def change_question_type(self, *_):
+        self.invalidate()
+        self.question_box = None
+        self.previous = None
+        self.stable = 0
+        self.result = None
+        self.output.clear()
+        self.copy_button.setEnabled(False)
+        self.status.setText("Written mode: select the prompt only, without existing answer text." if self.question_type.currentData() == "written" else "QCM mode: capture the question and all options.")
+
+    def copy_answer(self):
+        if self.result:
+            QApplication.clipboard().setText(str(self.result.get("answer", "")))
 
     def change_provider(self, provider):
         self.invalidate()
@@ -277,6 +304,8 @@ class App(QWidget):
                 self.visual.isChecked(),
                 True,
                 self.model.currentText(),
+                self.question_type.currentData(),
+                "coi" if self.coi_focus.isChecked() else None,
             )
             self.dispatch()
         except Exception as exc:
@@ -298,6 +327,8 @@ class App(QWidget):
         visual=False,
         force=False,
         model=None,
+        mode="mcq",
+        topic=None,
     ):
         def on_read(question):
             if generation == self.generation:
@@ -306,7 +337,7 @@ class App(QWidget):
                 self.stable = 3
 
         result = self.engine.solve(
-            image, provider, visual, model=model, on_read=on_read, refresh=force
+            image, provider, visual, model=model, on_read=on_read, refresh=force, mode=mode, topic=topic
         )
         result["total"] = time.monotonic() - started
         return generation, result
@@ -332,6 +363,7 @@ class App(QWidget):
                     self.pending = None
                     self.result = None
                     self.output.setPlainText("New question…")
+                    self.copy_button.setEnabled(False)
                 else:
                     self.stable += 1
                     if self.stable == 2:
@@ -343,6 +375,8 @@ class App(QWidget):
                             self.visual.isChecked(),
                             False,
                             self.model.currentText(),
+                            self.question_type.currentData(),
+                            "coi" if self.coi_focus.isChecked() else None,
                         )
             if self.future and self.future.done():
                 future = self.future
@@ -384,6 +418,7 @@ class App(QWidget):
                 e = r["evidence"][i - 1]
                 text += f"[{i}] {e['source']} — {e['section']}\n{e['text']}\n\n"
         self.output.setPlainText(text)
+        self.copy_button.setEnabled(bool(r.get("answer")))
 
 
 if __name__ == "__main__":

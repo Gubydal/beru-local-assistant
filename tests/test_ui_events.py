@@ -84,7 +84,7 @@ def test_manual_capture_dispatches_refresh_with_model(qtbot):
     ):
         button = next(b for b in w.findChildren(QPushButton) if b.text() == "Capture")
         qtbot.mouseClick(button, Qt.LeftButton)
-        assert submit.call_args.args[-2:] == (True, "gemini-3.8-flash")
+        assert submit.call_args.args[-4:] == (True, "gemini-3.8-flash", "mcq", "coi")
     future.set_result(
         (w.generation, {"answer": "a. Correct", "uncertain": False, "total": 1})
     )

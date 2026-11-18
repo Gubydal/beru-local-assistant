@@ -364,47 +364,67 @@ Distinction de lecture du tableau : diagnostiquer et anticiper = due diligence ;
 
 Source: original DOC Support 3-2.pdf, page 7, wheel image visually checked. COI indicator: Environment (Environnement). Orientations: Control / Harmony / Constraint. En français : contrôle, harmonie ou contrainte. This transcribes the original diagram, not a new or independent model.
 
+Definition from original page 6, linked to the page-7 wheel mapping: How individuals view and relate to the people, objects and issues in their sphere of influence. En français : rapport aux personnes, objets et problèmes dans leur sphère d’influence.
+
 
 ## Page 7 — COI wheel: Time / Temps
 
 Source: original DOC Support 3-2.pdf, page 7, wheel image visually checked. COI indicator: Time (Temps). Orientations: Single/Multiple Focus; Fixed/Fluid; Past/Present/Future. En français : une ou plusieurs activités, temps fixe ou fluide, passé/présent/futur. This transcribes the original diagram, not a new or independent model.
+
+Definition from original page 6, linked to the page-7 wheel mapping: How individuals perceive the nature of time and its use. En français : perception de la nature du temps et de son utilisation.
 
 
 ## Page 7 — COI wheel: Action / Action
 
 Source: original DOC Support 3-2.pdf, page 7, wheel image visually checked. COI indicator: Action (Action). Orientations: Being / Doing. En français : être / faire. This transcribes the original diagram, not a new or independent model.
 
+Definition from original page 6, linked to the page-7 wheel mapping: How individuals conceptualize actions and interactions. En français : conception des actions et interactions.
+
 
 ## Page 7 — COI wheel: Communication / Communication
 
 Source: original DOC Support 3-2.pdf, page 7, wheel image visually checked. COI indicator: Communication (Communication). Orientations: High/Low Context; Direct/Indirect; Expressive/Instrumental; Formal/Informal. En français : contexte élevé/bas, direct/indirect, expressif/instrumental, formel/informel. This transcribes the original diagram, not a new or independent model.
+
+Definition from original page 6, linked to the page-7 wheel mapping: How individuals express themselves. En français : manière de s’exprimer.
 
 
 ## Page 7 — COI wheel: Space / Espace
 
 Source: original DOC Support 3-2.pdf, page 7, wheel image visually checked. COI indicator: Space (Espace). Orientations: Public / Private. En français : public / privé. This transcribes the original diagram, not a new or independent model.
 
+Definition from original page 6, linked to the page-7 wheel mapping: How individuals demarcate their physical and psychological space. En français : délimitation de l’espace physique et psychologique.
+
 
 ## Page 7 — COI wheel: Power / Pouvoir
 
 Source: original DOC Support 3-2.pdf, page 7, wheel image visually checked. COI indicator: Power (Pouvoir). Orientations: Hierarchy / Equality. En français : hiérarchie / égalité. This transcribes the original diagram, not a new or independent model.
+
+Definition from original page 6, linked to the page-7 wheel mapping: How individuals view differential power relationships. En français : perception des différences dans les relations de pouvoir.
 
 
 ## Page 7 — COI wheel: Individualism / Individualisme
 
 Source: original DOC Support 3-2.pdf, page 7, wheel image visually checked. COI indicator: Individualism (Individualisme). Orientations: Individualistic/Collectivistic; Universalistic/Particularistic. En français : individuel/collectif, universalisme/particularisme. This transcribes the original diagram, not a new or independent model.
 
+Definition from original page 6, linked to the page-7 wheel mapping: How individuals define their identity. En français : définition de son identité.
+
 
 ## Page 7 — COI wheel: Competitiveness / Compétitivité
 
 Source: original DOC Support 3-2.pdf, page 7, wheel image visually checked. COI indicator: Competitiveness (Compétitivité). Orientations: Competitive / Cooperative. En français : compétition / coopération. This transcribes the original diagram, not a new or independent model.
+
+Definition from original page 6, linked to the page-7 wheel mapping: How individuals are motivated. En français : sources de motivation.
 
 
 ## Page 7 — COI wheel: Structure / Structure
 
 Source: original DOC Support 3-2.pdf, page 7, wheel image visually checked. COI indicator: Structure (Structure). Orientations: Order / Flexibility. En français : ordre / flexibilité. This transcribes the original diagram, not a new or independent model.
 
+Definition from original page 6, linked to the page-7 wheel mapping: How individuals approach change, risk, ambiguity and uncertainty. En français : rapport au changement, au risque, à l’ambiguïté et à l’incertitude.
+
 
 ## Page 7 — COI wheel: Thinking / Pensée
 
 Source: original DOC Support 3-2.pdf, page 7, wheel image visually checked. COI indicator: Thinking (Pensée). Orientations: Deductive / Inductive; Linear / Systematic. En français : déductif / inductif, linéaire / systématique. This transcribes the original diagram, not a new or independent model.
+
+Definition from original page 6, linked to the page-7 wheel mapping: How individuals conceptualize. En français : manière de conceptualiser et de raisonner.
