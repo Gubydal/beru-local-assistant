@@ -358,3 +358,53 @@ Provenance : photographie de la diapositive « Ch. 3 - Various approaches of the
 | Cultural Mentoring | Accompagnement interculturel | Aider les autres à prendre conscience des différences culturelles et à développer leur capacité à évoluer dans des environnements multiculturels. |
 
 Distinction de lecture du tableau : diagnostiquer et anticiper = due diligence ; adapter son propre style = style switching ; échanger explicitement et construire ensemble = dialogue ; accompagner le développement d’autrui = mentoring. Plusieurs compétences peuvent intervenir dans un même cas ; choisir l’action décrite par la question.
+
+
+## Page 7 — COI wheel: Environment / Environnement
+
+Source: original DOC Support 3-2.pdf, page 7, wheel image visually checked. COI indicator: Environment (Environnement). Orientations: Control / Harmony / Constraint. En français : contrôle, harmonie ou contrainte. This transcribes the original diagram, not a new or independent model.
+
+
+## Page 7 — COI wheel: Time / Temps
+
+Source: original DOC Support 3-2.pdf, page 7, wheel image visually checked. COI indicator: Time (Temps). Orientations: Single/Multiple Focus; Fixed/Fluid; Past/Present/Future. En français : une ou plusieurs activités, temps fixe ou fluide, passé/présent/futur. This transcribes the original diagram, not a new or independent model.
+
+
+## Page 7 — COI wheel: Action / Action
+
+Source: original DOC Support 3-2.pdf, page 7, wheel image visually checked. COI indicator: Action (Action). Orientations: Being / Doing. En français : être / faire. This transcribes the original diagram, not a new or independent model.
+
+
+## Page 7 — COI wheel: Communication / Communication
+
+Source: original DOC Support 3-2.pdf, page 7, wheel image visually checked. COI indicator: Communication (Communication). Orientations: High/Low Context; Direct/Indirect; Expressive/Instrumental; Formal/Informal. En français : contexte élevé/bas, direct/indirect, expressif/instrumental, formel/informel. This transcribes the original diagram, not a new or independent model.
+
+
+## Page 7 — COI wheel: Space / Espace
+
+Source: original DOC Support 3-2.pdf, page 7, wheel image visually checked. COI indicator: Space (Espace). Orientations: Public / Private. En français : public / privé. This transcribes the original diagram, not a new or independent model.
+
+
+## Page 7 — COI wheel: Power / Pouvoir
+
+Source: original DOC Support 3-2.pdf, page 7, wheel image visually checked. COI indicator: Power (Pouvoir). Orientations: Hierarchy / Equality. En français : hiérarchie / égalité. This transcribes the original diagram, not a new or independent model.
+
+
+## Page 7 — COI wheel: Individualism / Individualisme
+
+Source: original DOC Support 3-2.pdf, page 7, wheel image visually checked. COI indicator: Individualism (Individualisme). Orientations: Individualistic/Collectivistic; Universalistic/Particularistic. En français : individuel/collectif, universalisme/particularisme. This transcribes the original diagram, not a new or independent model.
+
+
+## Page 7 — COI wheel: Competitiveness / Compétitivité
+
+Source: original DOC Support 3-2.pdf, page 7, wheel image visually checked. COI indicator: Competitiveness (Compétitivité). Orientations: Competitive / Cooperative. En français : compétition / coopération. This transcribes the original diagram, not a new or independent model.
+
+
+## Page 7 — COI wheel: Structure / Structure
+
+Source: original DOC Support 3-2.pdf, page 7, wheel image visually checked. COI indicator: Structure (Structure). Orientations: Order / Flexibility. En français : ordre / flexibilité. This transcribes the original diagram, not a new or independent model.
+
+
+## Page 7 — COI wheel: Thinking / Pensée
+
+Source: original DOC Support 3-2.pdf, page 7, wheel image visually checked. COI indicator: Thinking (Pensée). Orientations: Deductive / Inductive; Linear / Systematic. En français : déductif / inductif, linéaire / systématique. This transcribes the original diagram, not a new or independent model.

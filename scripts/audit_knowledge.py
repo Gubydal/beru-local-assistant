@@ -66,7 +66,7 @@ registry = {
     "verified_diagram_pages": {
         "knowledge/documents/MIC Complet.study_guide.md": [28, 35, 41, 48, 50],
         "knowledge/documents/DOC Support 6-1.md": [1, 2, 3, 4],
-        "knowledge/documents/DOC Support 3-2.md": [2],
+        "knowledge/documents/DOC Support 3-2.md": [2, 7],
         "knowledge/documents/DOC Support 5-1.md": [3, 6, 7],
     },
     "user_supplied_table": {"source": "knowledge/documents/DOC Support 3-2.md", "section": "COI — tableau des compétences", "provenance": "User-provided slide photograph, visually transcribed; not a PDF page"},
@@ -97,7 +97,7 @@ audit = {
     "verified_diagram_pages": {
         "knowledge/documents/MIC Complet.study_guide.md": [28, 35, 41, 48, 50],
         "knowledge/documents/DOC Support 6-1.md": [1, 2, 3, 4],
-        "knowledge/documents/DOC Support 3-2.md": [2],
+        "knowledge/documents/DOC Support 3-2.md": [2, 7],
         "knowledge/documents/DOC Support 5-1.md": [3, 6, 7],
     },
     "not_indexed": [r["path"] for r in records if not indexed.get(r["path"])],
